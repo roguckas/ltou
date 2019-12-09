@@ -1,0 +1,180 @@
+@import "colors";
+@import "../bootstrap-4.3.1/scss/functions";
+@import "../bootstrap-4.3.1/scss/variables";
+@import "../bootstrap-4.3.1/scss/mixins/_breakpoints";
+
+
+* {
+  font-family: Roboto, sans-serif;
+
+}
+
+h1 {
+  font-size: 4.083vw;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 139.69%;
+  text-transform: uppercase;
+}
+h2 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 3.823vw;
+  line-height: 41px;
+  color: $main_color;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 3.202vw;
+  line-height: 29px;
+}
+
+a {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 3.4vw;
+}
+
+p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 3.4vw;
+  line-height: 25px;
+
+}
+
+li {
+  font-style: normal;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 3.30vw;
+  line-height: 40px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  list-style-type: none;
+  /* identical to box height */
+}
+
+button, .btn-secondary {
+  background: transparent;
+  padding: 13px 31px;
+  border: 2px solid $white;
+  border-radius: 25px;
+  color: $white;
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 3vw;
+  line-height: 16px;
+  transition: 0.2s;
+
+  &:hover {
+    border-color: $main_color;
+    color: $main_color;
+  }
+}
+.btn-secondary:hover {
+  background-color: transparent;
+}
+.dropdown-toggle {
+  border: none;
+}
+
+//Responsive - media queries
+
+@include media-breakpoint-up(sm) {
+
+  h1 {
+    font-size: 6.667vw;
+  }
+
+  h2 {
+    font-size: 5.833vw;
+  }
+
+  h3 {
+    font-size: 4.167vw;
+  }
+
+  a {
+    font-size: 3vw;
+  }
+
+  p {
+    font-size: 3vw;
+  }
+
+  li {
+    font-size: 4.167vw;
+  }
+
+  button, .btn-secondary {
+    font-size: 2.333vw;
+  }
+}
+
+@include media-breakpoint-up(md) {
+
+  h1 {
+    font-size: 3.083vw;
+  }
+
+  h2 {
+    font-size: 2.823vw;
+  }
+
+  h3 {
+    font-size: 2.302vw;
+  }
+
+  a {
+    font-size: 2vw;
+  }
+
+  p {
+    font-size: 2vw;
+  }
+
+  li {
+    font-size: 1.5vw;
+  }
+
+  button, .btn-secondary {
+    font-size: 1.729vw;
+  }
+}
+
+@include media-breakpoint-up(xl) {
+
+  h1 {
+    font-size: 2.08vw;
+  }
+
+  h2 {
+    font-size: 1.2vw;
+    margin-bottom: 10%;
+  }
+
+  h3 {
+    font-size: 1.30vw;
+  }
+
+  a {
+    font-size: 0.83vw;
+  }
+
+  p {
+    font-size: 0.83vw;
+  }
+
+  li {
+    font-size: 1.30vw;
+  }
+
+  button, .btn-secondary {
+    font-size: 0.72vw;
+  }
+}
