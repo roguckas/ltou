@@ -86,10 +86,10 @@
 
 <section id="services">
     <div class="container-fluid">
-        <h2>Kaip tai veikia ?</h2>
-        <div class="row justify-content-center bg-primary">
+        <h2 class="pb-5 mb-5">Kaip tai veikia ?</h2>
+        <div class="row justify-content-center pt-5 bg-primary">
             <div class="container row">
-                <div class="row col-md-12 col-lg-4 case-study">
+                <div class="row col-md-12 col-xl-4 case-study">
                     <div class="services-icon bg-white">
                         <img class="" src="images/Group%205.2.png">
                     </div>
@@ -98,7 +98,7 @@
                         <p class="col-8 text-left text-white">Pasirenkamos lokacijos</p>
                     </div>
                 </div>
-                <div class="row col-md-12 col-lg-4 case-study">
+                <div class="row col-md-12 col-xl-4 case-study">
                     <div class="services-icon bg-white">
                         <img class="" src="images/Group.png">
                     </div>
@@ -107,7 +107,7 @@
                         <p class="col-8 text-left text-white">Įkeliamas turinys, sukurima reklaminė kampanija</p>
                     </div>
                 </div>
-                <div class="row col-md-12 col-lg-4 case-study">
+                <div class="row col-md-12 col-xl-4 case-study">
                     <div class="services-icon bg-white">
                         <img class="" src="images/Group3.png">
                     </div>

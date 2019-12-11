@@ -55,7 +55,7 @@
         </div>
     </div>
     <div class="container-fluid col-xl-10">
-        <div class="row  justify-content-center bg-white">
+        <div class="row mt-5 pt-5 justify-content-center bg-white">
             <div class="col-12 col-lg-4 pl-lg-5">
                 <ul class="list-group">
                     <li>
