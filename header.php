@@ -15,7 +15,7 @@ $nav = "<nav class=\"navbar fixed-top navbar-expand-lg navbar-light bg-white\">
       <li class=\"nav-item m-lg-auto text-md-left\">
         <a class=\"nav-link\" href=\"contact.php\">Contact</a>
       </li>
-      <li class=\"nav-item ml-lg-5 m-lg-auto text-md-left\">
+      <li class=\"nav-item m-lg-auto pl-lg-5 text-md-left\">
         <a class=\"nav-link\" href=\"#\">Prisijungti</a>
       </li>
       <li class=\"nav-item m-lg-auto\">
