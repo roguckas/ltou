@@ -4,14 +4,8 @@
 .navbar-toggler {
   margin-right: 10%;
 }
-
-
-.navbar-toggler.collapsed {
-  margin-right: 0;
-}
-
 .bg-primary.header {
-  margin-top: 0px;
+  margin-top: 0;
 
   div {
     padding: 156px 0 100px;
@@ -21,7 +15,6 @@
 .header {
   background-image: url("../images/header.png");
   width: 100%;
-  height: auto;
 
   video {
     width: 100%;

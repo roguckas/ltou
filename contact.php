@@ -1,8 +1,9 @@
+<html>
 <?php
 include 'head.php';
 include 'header.php';
 ?>
-
+<body>
 <header class="bg-primary header text-white">
     <div class="container text-center">
         <div class="row justify-content-md-center">
@@ -95,4 +96,9 @@ include 'header.php';
 </section>
 
 <div class="col-12 footer-bottom"></div>
+<!-- Bootstrap core JavaScript -->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
 </body>
+</html>

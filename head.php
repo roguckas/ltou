@@ -21,7 +21,6 @@ $head = "<head>
     <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js\"></script>
 
     <!-- Custom styles for this template -->
-    <link href=\"css/scrolling-nav.css\" rel=\"stylesheet\">
 
     <!-- Custom styles import-->
     <link rel=\"stylesheet\" type=\"text/css\" href=\"./assets/style.css\">
@@ -30,15 +29,10 @@ $head = "<head>
     <link rel=\"stylesheet\" href=\"https://use.fontawesome.com/releases/v5.11.2/css/all.css\">
     <link rel=\"stylesheet\" href=\"https://use.fontawesome.com/releases/v5.11.2/css/v4-shims.css\">
     
-    <link rel=\"stylesheet\" type=\"text/css\" href=\"//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css\"/>
-    <script type=\"text/javascript\" src=\"//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js\"></script>
-
       
     <!--Jq link-->
     <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js\"></script>
 
-</head>
- 
-<body>";
+</head>";
 
 echo $head;

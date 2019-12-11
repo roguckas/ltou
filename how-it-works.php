@@ -1,5 +1,9 @@
-<?php include 'head.php'?>
+<!DOCTYPE html>
+<html lang="en">
 
+<?php include 'head.php'?>
+<!-- Navigation -->
+<body>
 <?php  include 'header.php'?>
 
 <header class="header bg-white text-white">
@@ -122,7 +126,6 @@
         </div>
     </div>
 </section>
-
 <div class="container-fluid text-center articles pt-5 mt-5 mb-5">
     <div class="row single-item justify-content-center multiple-items">
         <h1 class="col-12 pb-5 mb-5">Apie mus rašo</h1>
@@ -151,28 +154,9 @@
 
 </div>
 
-
-<script>
-    const video = document.getElementById("myVideo");
-    const myFunction = () => {
-        if (video.paused) {
-            video.play();
-            $( document ).ready(function() {
-                $("#myBtnPlay").hide();
-                $("#myBtnPause").show();
-                $("#myBtnPause").css({"opacity": "0.2"});
-
-            });
-        } else {
-            $("#myBtnPause").click(function () {
-                video.pause();
-                $("#myBtnPlay").show();
-                $("#myBtnPause").hide();
-            })
-        }
-    };
-</script>
-
-
 <?php  include 'footer.php'?>
+
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 </body>
+</html>

@@ -2,8 +2,8 @@
 <html lang="en">
 
 <?php include 'head.php'?>
-<body id="page-top">
 <!-- Navigation -->
+<body>
 <?php  include 'header.php'?>
 
 <header class="bg-primary header text-white">
@@ -171,15 +171,7 @@
 <script src="vendor/jquery/jquery.min.js"></script>
 <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-<!-- Plugin JavaScript -->
-<script src="vendor/jquery-easing/jquery.easing.min.js"></script>
-
-<!-- Custom JavaScript for this theme -->
-<script src="js/scrolling-nav.js"></script>
-<!-- Footer -->
-
-
-
+<?php  include 'footer.php'?>
 
 <script>
     $(document).ready(function(){
@@ -194,7 +186,7 @@
             });
     });
 </script>
-<?php  include 'footer.php'?>
+
 
 </body>
 </html>

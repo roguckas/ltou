@@ -1,4 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+
 <?php include 'head.php'?>
+<!-- Navigation -->
+<body>
 <?php  include 'header.php'?>
 
 <header class="bg-primary header text-white">
@@ -10,7 +15,7 @@
     </div>
 </header>
 
-<div class="container col-8 mt-5 pt-5 ">
+<div class="container-fluid col-12 col-lg-8  mt-5 pt-5 ">
     <ul class="row text-left duk-list">
         <li class="col-12 align-self-center pb-5 duk-list-item">
             <h3 class="d-inline-block ">Ar ekranai veikia nakties metu?</h3>
@@ -55,10 +60,9 @@
         </li>
     </ul>
 </div>
-<footer>
-    <div class="col-12 footer-bottom"></div>
-</footer>
 
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 <script>
     $(".duk-list-item p").hide();
 
@@ -75,4 +79,6 @@
 
 </script>
 
+<?php include 'footer.php'?>
 </body>
+</html>

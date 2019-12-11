@@ -14,7 +14,6 @@ $footer = "<footer class=\"footer\">
     </div>
     <div class=\"col-12 footer-bottom\"></div>
     <!-- /.container -->
-</footer>
-</body>";
+</footer>";
 
 echo $footer;
