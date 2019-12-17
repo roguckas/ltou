@@ -131,11 +131,11 @@ button, .btn-secondary {
   }
 
   a {
-    font-size: 2vw;
+    font-size: 1.5vw;
   }
 
   p {
-    font-size: 2vw;
+    font-size: 1.5vw;
   }
 
   li {
@@ -150,7 +150,7 @@ button, .btn-secondary {
 @include media-breakpoint-up(xl) {
 
   h1 {
-    font-size: 2.5vw;
+    font-size: 2.2vw;
   }
 
   h2 {

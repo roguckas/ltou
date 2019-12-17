@@ -6,27 +6,12 @@
 <body>
 <?php  include 'header.php'?>
 
-<!--<header class="bg-primary header text-white">-->
-<!--    <div class="container text-left ">-->
-<!--        <div class="row">-->
-<!--            <h1 class="col-lg-6 offset-xl-6">Reklamos užsakymas Lietuvos oro uostuose</h1>-->
-<!--            <p class="col-lg-8 offset-xl-6">Jūsų patogumui sukūrėme analogų neturinčią reklamos užsakymo platformą. Šio įrankio pagalba galėsite greitai ir efektyviai suplanuoti reklamos kampaniją Lietuvos oro uostų grupėje, kurioje – 84 aukštos kokybės vaizdo ekranai, 46 šviesdėžės, 74 nestandartinių pozicijų ir didžiausia vaizdo siena vidaus patalpose.</p>-->
-<!--            <button class="col-12 col-md-6 col-xl-4 offset-xl-6">Išbandyti</button>-->
-<!--        </div>-->
-<!--    </div>-->
-<!--</header>-->
-
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-    <ol class="carousel-indicators">
-        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-    </ol>
     <div class="carousel-inner">
         <header class="header carousel-caption text-white">
             <div class="container text-left ">
                 <div class="row">
-                    <h1 class="col-lg-6 offset-xl-6">Reklamos užsakymas Lietuvos oro uostuose</h1>
+                    <h1 class="col-12 col-xl-6 offset-xl-6">Reklamos užsakymas Lietuvos oro uostuose</h1>
                     <p class="col-lg-8 offset-xl-6">Jūsų patogumui sukūrėme analogų neturinčią reklamos užsakymo platformą. Šio įrankio pagalba galėsite greitai ir efektyviai suplanuoti reklamos kampaniją Lietuvos oro uostų grupėje, kurioje – 84 aukštos kokybės vaizdo ekranai, 46 šviesdėžės, 74 nestandartinių pozicijų ir didžiausia vaizdo siena vidaus patalpose.</p>
                     <button class="col-12 col-md-6 col-xl-4 offset-xl-6">Išbandyti</button>
                 </div>
