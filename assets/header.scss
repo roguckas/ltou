@@ -14,6 +14,11 @@
 
 .header {
 
+  background-image: url("../images/(flip)shutterstock_1455340826 1.png");
+  background-position: center;
+  width: 100%;
+
+
   video {
     width: 100%;
   }
@@ -26,10 +31,6 @@
   }
 }
 
-.carousel-caption {
-  top: 15%;
-  bottom: 0;
-}
 
 .bg-dark {
 background-color: $white !important;

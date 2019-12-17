@@ -6,33 +6,15 @@
 <body>
 <?php  include 'header.php'?>
 
-<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-    <ol class="carousel-indicators">
-        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-    </ol>
-    <div class="carousel-inner">
-        <header class="header carousel-caption text-white">
-            <div class="container text-left ">
-                <div class="row">
-                    <h1 class="col-lg-6 offset-xl-6">Reklamos užsakymas Lietuvos oro uostuose</h1>
-                    <p class="col-lg-8 offset-xl-6">Jūsų patogumui sukūrėme analogų neturinčią reklamos užsakymo platformą. Šio įrankio pagalba galėsite greitai ir efektyviai suplanuoti reklamos kampaniją Lietuvos oro uostų grupėje, kurioje – 84 aukštos kokybės vaizdo ekranai, 46 šviesdėžės, 74 nestandartinių pozicijų ir didžiausia vaizdo siena vidaus patalpose.</p>
-                    <button class="col-12 col-md-6 col-xl-4 offset-xl-6">Išbandyti</button>
-                </div>
-            </div>
-        </header>
-        <div class="carousel-item active">
-            <img class="d-block w-100" src="./images/(flip)shutterstock_1455340826 1.png" alt="First slide">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-100" src="./images/(flip)shutterstock_1455340826 1.png" alt="Second slide">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-100" src="./images/(flip)shutterstock_1455340826 1.png" alt="Third slide">
+<header class="bg-primary header text-white">
+    <div class="container text-left ">
+        <div class="row">
+            <h1 class="col-lg-6 offset-xl-6">Reklamos užsakymas Lietuvos oro uostuose</h1>
+            <p class="col-lg-8 offset-xl-6">Jūsų patogumui sukūrėme analogų neturinčią reklamos užsakymo platformą. Šio įrankio pagalba galėsite greitai ir efektyviai suplanuoti reklamos kampaniją Lietuvos oro uostų grupėje, kurioje – 84 aukštos kokybės vaizdo ekranai, 46 šviesdėžės, 74 nestandartinių pozicijų ir didžiausia vaizdo siena vidaus patalpose.</p>
+            <button class="col-12 col-md-6 col-xl-4 offset-xl-6">Išbandyti</button>
         </div>
     </div>
-</div>
+</header>
 <section id="services">
     <div class="container-fluid col-xl-10">
         <h2 class="services-header">Kaip tai veikia ?</h2>
