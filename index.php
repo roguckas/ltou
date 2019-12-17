@@ -6,7 +6,7 @@
 <body>
 <?php  include 'header.php'?>
 
-<header class="bg-primary header text-white">
+<header class="bg-primary header text-white d-none">
     <div class="container text-left ">
         <div class="row">
             <h1 class="col-lg-6 offset-xl-6">Reklamos užsakymas Lietuvos oro uostuose</h1>
@@ -15,6 +15,28 @@
         </div>
     </div>
 </header>
+
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img class="d-block w-100" src="/images/(flip)shutterstock_1455340826%201.png" alt="First slide">
+        </div>
+        <div class="carousel-item">
+            <img class="d-block w-100" src="/images/(flip)shutterstock_1455340826%201.png" alt="Second slide">
+        </div>
+        <div class="carousel-item">
+            <img class="d-block w-100" src="/images/(flip)shutterstock_1455340826%201.png" alt="Third slide">
+        </div>
+        <div class="container text-left text-white position-absolute d-none d-md-block">
+            <div class="row">
+                <h1 class="col-lg-6 offset-xl-6">Reklamos užsakymas Lietuvos oro uostuose</h1>
+                <p class="col-lg-8 offset-xl-6">Jūsų patogumui sukūrėme analogų neturinčią reklamos užsakymo platformą. Šio įrankio pagalba galėsite greitai ir efektyviai suplanuoti reklamos kampaniją Lietuvos oro uostų grupėje, kurioje – 84 aukštos kokybės vaizdo ekranai, 46 šviesdėžės, 74 nestandartinių pozicijų ir didžiausia vaizdo siena vidaus patalpose.</p>
+                <button class="col-12 col-md-6 col-xl-4 offset-xl-6">Išbandyti</button>
+            </div>
+        </div>
+    </div>
+</div>
+
 <section id="about">
     <div class="container-fluid">
         <div class="row">
@@ -178,11 +200,21 @@
             selector: "[data-toggle='tooltip']",
             container: "body"
         })
-            .popover({
-                selector: "[data-toggle='popover']",
-                container: "body",
-                html: true
-            });
+        .popover({
+            selector: "[data-toggle='popover']",
+            container: "body",
+            html: true
+        });
+
+
+        function checkPosition() {
+            if (window.matchMedia('(max-width: 767px)').matches) {
+                $( "header" ).removeClass( "d-none" );
+                $( "#carouselExampleControls" ).addClass( "d-none" );
+            }
+        }
+
+        checkPosition();
     });
 </script>
 

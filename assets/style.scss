@@ -443,3 +443,22 @@ button .border-primary:hover {
   color: $main_color;
   opacity: 0.5;
 }
+
+.position-absolute {
+  z-index: 100;
+}
+
+@include media-breakpoint-up(md) {
+  .position-absolute {
+    top: 30%;
+    right: 0;
+  }
+}
+
+
+@include media-breakpoint-up(xl) {
+  .position-absolute {
+    top: 20%;
+    right: 20%;
+  }
+}
