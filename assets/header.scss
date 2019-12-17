@@ -13,8 +13,6 @@
 }
 
 .header {
-  background-image: url("../images/header.png");
-  width: 100%;
 
   video {
     width: 100%;
@@ -26,6 +24,11 @@
   i #text {
     display: none;
   }
+}
+
+.carousel-caption {
+  top: 15%;
+  bottom: 0;
 }
 
 .bg-dark {
