@@ -6,34 +6,38 @@
 <body>
 <?php  include 'header.php'?>
 
-<header class="bg-primary header text-white d-none">
-    <div class="container text-left ">
-        <div class="row">
-            <h1 class="col-lg-6 offset-xl-6">Reklamos užsakymas Lietuvos oro uostuose</h1>
-            <p class="col-lg-8 offset-xl-6">Jūsų patogumui sukūrėme analogų neturinčią reklamos užsakymo platformą. Šio įrankio pagalba galėsite greitai ir efektyviai suplanuoti reklamos kampaniją Lietuvos oro uostų grupėje, kurioje – 84 aukštos kokybės vaizdo ekranai, 46 šviesdėžės, 74 nestandartinių pozicijų ir didžiausia vaizdo siena vidaus patalpose.</p>
-            <button class="col-12 col-md-6 col-xl-4 offset-xl-6">Išbandyti</button>
-        </div>
-    </div>
-</header>
-
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img class="d-block w-100" src="/images/(flip)shutterstock_1455340826%201.png" alt="First slide">
+            <img class="d-block w-100" src="/images/Landing-Header-Concept-1.png" alt="First slide">
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="/images/(flip)shutterstock_1455340826%201.png" alt="Second slide">
+            <img class="d-block w-100" src="/images/Landing-Header-Concept-2.png" alt="Second slide">
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="/images/(flip)shutterstock_1455340826%201.png" alt="Third slide">
+            <img class="d-block w-100" src="/images/Landing-Header-Concept-3.png" alt="Third slide">
+        </div>
+        <div class="carousel-item">
+            <img class="d-block w-100" src="/images/Landing-Header-Concept-4.png" alt="Third slide">
+        </div>
+        <div class="carousel-item">
+            <img class="d-block w-100" src="/images/Landing-Header-Concept-5.png" alt="Third slide">
         </div>
         <div class="container text-left text-white position-absolute d-none d-md-block">
             <div class="row">
-                <h1 class="col-lg-6 offset-xl-6">Reklamos užsakymas Lietuvos oro uostuose</h1>
-                <p class="col-lg-8 offset-xl-6">Jūsų patogumui sukūrėme analogų neturinčią reklamos užsakymo platformą. Šio įrankio pagalba galėsite greitai ir efektyviai suplanuoti reklamos kampaniją Lietuvos oro uostų grupėje, kurioje – 84 aukštos kokybės vaizdo ekranai, 46 šviesdėžės, 74 nestandartinių pozicijų ir didžiausia vaizdo siena vidaus patalpose.</p>
-                <button class="col-12 col-md-6 col-xl-4 offset-xl-6">Išbandyti</button>
+                <h1 class="col-lg-6 offset-xl-8">Reklamos užsakymas Lietuvos oro uostuose</h1>
+                <p class="col-lg-6 offset-xl-8">Jūsų patogumui sukūrėme analogų neturinčią reklamos užsakymo platformą. Šio įrankio pagalba galėsite greitai ir efektyviai suplanuoti reklamos kampaniją Lietuvos oro uostų grupėje, kurioje – 84 aukštos kokybės vaizdo ekranai, 46 šviesdėžės, 74 nestandartinių pozicijų ir didžiausia vaizdo siena vidaus patalpose.</p>
+                <button class="col-12 col-md-6 col-xl-4 offset-xl-8">Išbandyti</button>
             </div>
         </div>
+        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
     </div>
 </div>
 
@@ -41,7 +45,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-md-12 offset-1 col-lg-12  col-xl-5">
-                <img src="images/image.png">
+                <img src="images/12-19_LTOU_Animation.gif">
             </div>
             <div class="offset-md-1 col-lg-12 col-xl-5">
                 <h2>Kodėl verta?</h2>
@@ -196,6 +200,7 @@
 
 <script>
     $(document).ready(function(){
+
         $("body").tooltip({
             selector: "[data-toggle='tooltip']",
             container: "body"

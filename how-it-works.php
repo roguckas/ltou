@@ -6,13 +6,10 @@
 <body>
 <?php  include 'header.php'?>
 
-<header class="bg-primary header text-white">
-    <div class="container text-left ">
-        <div class="row">
-            <h1 class="col-lg-6 offset-xl-6">Reklamos užsakymas Lietuvos oro uostuose</h1>
-            <p class="col-lg-8 offset-xl-6">Jūsų patogumui sukūrėme analogų neturinčią reklamos užsakymo platformą. Šio įrankio pagalba galėsite greitai ir efektyviai suplanuoti reklamos kampaniją Lietuvos oro uostų grupėje, kurioje – 84 aukštos kokybės vaizdo ekranai, 46 šviesdėžės, 74 nestandartinių pozicijų ir didžiausia vaizdo siena vidaus patalpose.</p>
-            <button class="col-12 col-md-6 col-xl-4 offset-xl-6">Išbandyti</button>
-        </div>
+<header class="bg-primary container-fluid text-white">
+    <div class="container col-8 text-left ">
+       <video></video>
+        <h1>testing</h1>
     </div>
 </header>
 <section id="services">
