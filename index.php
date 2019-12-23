@@ -9,19 +9,19 @@
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img class="d-block w-100" src="/images/Landing-Header-Concept-1.png" alt="First slide">
+            <img class="d-block w-100" src="/images/Landing-Header-Concept-1.jpg" alt="First slide">
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="/images/Landing-Header-Concept-2.png" alt="Second slide">
+            <img class="d-block w-100" src="/images/Landing-Header-Concept-2.jpg" alt="Second slide">
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="/images/Landing-Header-Concept-3.png" alt="Third slide">
+            <img class="d-block w-100" src="/images/Landing-Header-Concept-3.jpg" alt="Third slide">
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="/images/Landing-Header-Concept-4.png" alt="Third slide">
+            <img class="d-block w-100" src="/images/Landing-Header-Concept-4.jpg" alt="Third slide">
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="/images/Landing-Header-Concept-5.png" alt="Third slide">
+            <img class="d-block w-100" src="/images/Landing-Header-Concept-5.jpg" alt="Third slide">
         </div>
         <div class="container text-left text-white position-absolute d-none d-md-block">
             <div class="row">

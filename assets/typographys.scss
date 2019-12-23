@@ -72,8 +72,9 @@ button, .btn-secondary {
   transition: 0.2s;
 
   &:hover {
-    border-color: $main_color;
+    border-color: $grey-light;
     color: $main_color;
+    background-color: $grey-light;
   }
 }
 .btn-secondary:hover {
