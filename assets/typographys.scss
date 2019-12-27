@@ -8,7 +8,10 @@
   font-family: Roboto, sans-serif;
 
 }
-
+.btn-primary {
+  background-color: $main_color;
+  border-color: $main_color;
+}
 h1 {
   font-size: 4.083vw;
   font-style: normal;

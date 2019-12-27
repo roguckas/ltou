@@ -6,14 +6,14 @@ $nav = "<nav class=\"navbar fixed-top navbar-expand-lg navbar-light bg-white\">
   </button>
   <div class=\"collapse navbar-collapse justify-content-lg-end\" id=\"navbarNav\">
     <ul class=\"navbar-nav\">
-      <li class=\"nav-item m-lg-auto text-md-left\">
+      <li class=\"nav-item m-lg-auto text-md-left  pl-lg-2\">
         <a class=\"nav-link\" href=\"how-it-works.php\">Kaip tai veikia ?</a>
       </li>
-      <li class=\"nav-item m-lg-auto text-md-left\">
+      <li class=\"nav-item m-lg-auto text-md-left  pl-lg-2\">
         <a class=\"nav-link\" href=\"duk.php\">D.U.K</a>
       </li>
-      <li class=\"nav-item m-lg-auto text-md-left\">
-        <a class=\"nav-link\" href=\"contact.php\">Contact</a>
+      <li class=\"nav-item m-lg-auto text-md-left pl-lg-2\">
+        <a class=\"nav-link\" href=\"contact.php\">Kontaktai</a>
       </li>
       <li class=\"nav-item m-lg-auto pl-lg-5 text-md-left\">
         <a class=\"nav-link\" href=\"#\">Prisijungti</a>

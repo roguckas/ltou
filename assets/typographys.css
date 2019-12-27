@@ -2,6 +2,11 @@
   font-family: Roboto, sans-serif;
 }
 
+.btn-primary {
+  background-color: #20A2EC;
+  border-color: #20A2EC;
+}
+
 h1 {
   font-size: 4.083vw;
   font-style: normal;
@@ -64,7 +69,6 @@ button, .btn-secondary {
   line-height: 16px;
   transition: 0.2s;
 }
-
 button:hover, .btn-secondary:hover {
   border-color: #F2F2F2;
   color: #20A2EC;
@@ -167,109 +171,5 @@ button:hover, .btn-secondary:hover {
     font-size: 1vw;
   }
 }
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
-/*# sourceMappingURL=typographys.css.map */
 
 /*# sourceMappingURL=typographys.css.map */
