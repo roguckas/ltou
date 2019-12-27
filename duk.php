@@ -10,7 +10,6 @@
     <div class="container text-center">
         <div class="row">
             <h1 class="col-12 mb-5"><b>Turite klausimų?</b><br>būtinai atsakysime</h1>
-            <p class="col-12">Jei nerandate reikiamų atsakymų, susisiekite su mumis<br><a href="tel:+37000000000">+370 000 000 00</a> arba elektroniniu paštu <a href="mailto:info@orouostai.lt">info@orouostai.lt</a></p>
         </div>
     </div>
 </header>

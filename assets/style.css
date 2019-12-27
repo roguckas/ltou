@@ -447,15 +447,6 @@ section .bg-primary li:before {
 .duk-list-item {
   border-bottom: 2px solid #F2F2F2;
 }
-@media (min-width: 768px) {
-  .duk-list-item h3 {
-    font-size: 2vw;
-    font-weight: 500;
-  }
-  .duk-list-item p {
-    font-size: 1.8vw;
-  }
-}
 
 .list-group p {
   font-weight: 400;

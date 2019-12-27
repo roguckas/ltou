@@ -282,20 +282,6 @@ section {
 
 .duk-list-item {
   border-bottom: 2px solid $grey-light;
-
-  @include media-breakpoint-up(md) {
-
-    h3 {
-      font-size: 2vw;
-      font-weight: 500;
-    }
-
-    p {
-      font-size: 1.8vw;
-    }
-
-  }
-
 }
 
 .list-group {
