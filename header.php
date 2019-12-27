@@ -1,10 +1,10 @@
 <?php
 $nav = "<nav class=\"navbar fixed-top navbar-expand-lg navbar-light bg-white\">
   <a class=\"navbar-brand\" href=\"index.php\"><img  src=\"images/logo_en.png\"></a>
-  <button class=\"navbar-toggler m-0\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarNav\" aria-controls=\"navbarNav\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">
+  <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarNav\" aria-controls=\"navbarNav\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">
     <span class=\"navbar-toggler-icon\"></span>
   </button>
-  <div class=\"collapse navbar-collapse justify-content-lg-end\" id=\"navbarNav\">
+  <div class=\"collapse navbar-collapse justify-content-lg-end shadow\" id=\"navbarNav\">
     <ul class=\"navbar-nav\">
       <li class=\"nav-item m-lg-auto text-md-left  pl-lg-2\">
         <a class=\"nav-link\" href=\"how-it-works.php\">Kaip tai veikia ?</a>

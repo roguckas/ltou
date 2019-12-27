@@ -46,7 +46,7 @@
 <section id="about">
     <div class="container-fluid">
         <div class="row">
-            <div class="col-sm-12 col-md-12 offset-1 col-lg-12  col-xl-5">
+            <div class="col-sm-12 col-md-12 offset-md-1 col-lg-12 col-xl-5">
                 <img src="images/12-19_LTOU_Animation.gif">
             </div>
             <div class="offset-md-1 col-lg-12 col-xl-5">
