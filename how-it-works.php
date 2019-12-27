@@ -7,9 +7,9 @@
 <?php  include 'header.php'?>
 
 <header class="bg-primary container-fluid text-white">
-    <div class="container col-8 text-left ">
-       <video></video>
-        <h1>testing</h1>
+    <div class="container col-8">
+        <br>
+       <video class="my-5 pt-5 m-auto d-block" src="images/apie-mus-LTOU.mp4" autoplay loop></video>
     </div>
 </header>
 <section id="services">
@@ -27,7 +27,7 @@
             </div>
             <div class="col row align-items-center case-study">
                 <div class="services-icon bg-white">
-                    <img class="" src="images/Group%205.2.png">
+                    <img class="" src="images/Group.png">
                 </div>
                 <div class="row col-12 align-items-center justify-content-center services-text">
                     <h1 class="col d-flex justify-content-center">2</h1>
@@ -36,7 +36,7 @@
             </div>
             <div class="col row align-items-center case-study">
                 <div class="services-icon bg-white">
-                    <img class="" src="images/Group%205.2.png">
+                    <img class="" src="images/Group3.png">
                 </div>
                 <div class="row col-12 align-items-center justify-content-center services-text">
                     <h1 class="col d-flex justify-content-center">3</h1>
