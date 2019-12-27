@@ -21,7 +21,7 @@
             <img class="d-block w-100" src="/images/Landing-Header-Concept-4.jpg" alt="Third slide">
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="/images/Landing-Header-Concept-5.jpg" alt="Third slide">
+            <img class="d-block w-100" src="/images/Landing-Header-Concept-8.jpg" alt="Third slide">
         </div>
         <div class="container text-left text-white position-absolute d-none d-md-block">
             <div class="row">
