@@ -7,7 +7,7 @@ $footer = "<footer class=\"footer\">
             <br>
         </div>
         <button class=\"btn col-sm-12 col-md-2 mt-5\">
-        <a class='text-white' href='duk.php'>D.U.K</a>
+        <a class='text-white' href='contact.php'>Kontaktai</a>
         </button>
     </div>
     <div class=\"col-12 footer-bottom\"></div>
