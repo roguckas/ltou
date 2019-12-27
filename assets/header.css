@@ -24,6 +24,12 @@
   display: none;
 }
 
+.header-mobile {
+  background-image: url("../images/header-3.jpg");
+  background-position: center;
+  width: 100%;
+}
+
 .bg-dark {
   background-color: #fff !important;
 }
