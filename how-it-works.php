@@ -7,8 +7,7 @@
 <?php  include 'header.php'?>
 
 <header class="bg-primary container-fluid text-white">
-    <div class="container col-8">
-        <br>
+    <div class="container-fluid">
        <video class="my-5 pt-5 m-auto d-block" src="images/apie-mus-LTOU.mp4" autoplay loop></video>
     </div>
 </header>
