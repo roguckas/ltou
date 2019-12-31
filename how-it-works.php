@@ -8,7 +8,7 @@
 
 <header class="bg-primary container-fluid text-white">
     <div class="container-fluid">
-       <video class="my-5 pt-5 m-auto d-block" src="images/apie-mus-LTOU.mp4" autoplay loop></video>
+       <video class="my-5 pt-5 m-auto d-block" src="images/apie-mus-LTOU.mp4" autoplay loop muted></video>
     </div>
 </header>
 <section id="services">
