@@ -604,4 +604,8 @@ button .border-primary:hover {
   margin-bottom: 90px;
 }
 
+.carousel-indicators {
+  bottom: 7%;
+}
+
 /*# sourceMappingURL=style.css.map */

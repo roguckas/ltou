@@ -18,10 +18,10 @@
             <img class="d-block w-100" src="images/Landing-Header-Concept-3.jpg" alt="Third slide">
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="images/Landing-Header-Concept-4.jpg" alt="Third slide">
+            <img class="d-block w-100" src="images/Landing-Header-Concept-4.jpg" alt="Fourth slide">
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="images/Landing-Header-Concept-5.jpg" alt="Third slide">
+            <img class="d-block w-100" src="images/Landing-Header-Concept-5.jpg" alt="Fifth slide">
         </div>
         <div class="container text-left text-white position-absolute d-none d-md-block">
             <div class="row">
@@ -31,14 +31,14 @@
             </div>
         </div>
     </div>
-    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-    </a>
+    <ol class="carousel-indicators">
+        <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+        <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+        <li data-target="#carouselExampleControls" data-slide-to="3"></li>
+        <li data-target="#carouselExampleControls" data-slide-to="4"></li>
+        <li data-target="#carouselExampleControls" data-slide-to="5"></li>
+    </ol>
 </div>
 
 <header class="bg-primary container-fluid header-mobile py-5 my-5 d-none text-white">
