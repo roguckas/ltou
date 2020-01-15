@@ -26,7 +26,9 @@
         <div class="container text-left text-white position-absolute d-none d-md-block">
             <div class="row">
                 <h1 class="col-lg-6 offset-xl-8">Reklamos užsakymas Lietuvos oro uostuose</h1>
-                <p class="col-lg-6 offset-xl-8">Jūsų patogumui sukūrėme analogų neturinčią reklamos užsakymo platformą. Šio įrankio pagalba galėsite greitai ir efektyviai suplanuoti reklamos kampaniją Lietuvos oro uostų grupėje, kurioje – 84 aukštos kokybės vaizdo ekranai, 46 šviesdėžės, 74 nestandartinių pozicijų ir didžiausia vaizdo siena vidaus patalpose.</p>
+                <p class="col-lg-6 offset-xl-8">Jūsų patogumui sukūrėme analogų neturinčią reklamos užsakymo platformą.
+                    Šio įrankio pagalba galėsite greitai ir efektyviai suplanuoti reklamos kampaniją Lietuvos oro uostų grupėje, kurioje – <b>84</b> aukštos kokybės vaizdo ekranai,
+                    <b>46</b> šviesdėžės, <b>74</b> nestandartinių pozicijų ir didžiausia vaizdo siena vidaus patalpose.</p>
                 <button class="col-12 col-md-6 col-xl-4 offset-xl-8">Išbandyti</button>
             </div>
         </div>
@@ -62,39 +64,39 @@
                 <ul>
                     <li>Išskirtinė lokacija
                         <!-- Bottom tooltip-->
-                        <i class="far fa-question-circle" data-toggle="popover" data-placement="bottom" data-content="Lietuvos oro uostai, jungiantys tris šalies oro uostus yra unikali vieta reklamai. Nuolatinis ir augantis keleivių srautas, perkamąją galią turinti auditorija, itin kokybiškos reklamos priemonės, geras jų matomumas ir pozytivi keleivių nuotaika yra tos dedamosios kurios jūsų reklaminę kampaniją gali padaryti sėkmingą."></i>
+                        <i class="far fa-question-circle" data-toggle="popover" data-placement="bottom" data-content="Lietuvos oro uostai, jungiantys tris šalies oro uostus, yra unikali vieta reklamai. Nuolatinis ir augantis keleivių srautas, perkamąją galią turinti auditorija, itin kokybiškos reklamos priemonės, geras jų matomumas ir pozityvi keleivių nuotaika yra tos dedamosios, kurios jūsų reklaminę kampaniją gali padaryti sėkmingą."></i>
                     </li>
                     <li>Pastovus ir augantis auditorijos srautas
                         <!-- Bottom tooltip-->
-                        <i class="far fa-question-circle" data-toggle="popover" data-placement="bottom" data-content="Lietuvos oro uostuose nuo oro uostų sujungimo pradžios 2014 metais iki 2018 metų keleivių skaičius augo net 42% procentais, t.y. nuo 4.4 mln iki 6.2 mln. keleivių per metus. Dviženklio procento augimu bus pažymėti ir 2019 metai."></i>
+                        <i class="far fa-question-circle" data-toggle="popover" data-placement="bottom" data-content="Lietuvos oro uostuose nuo oro uostų sujungimo pradžios 2014 m. iki 2018 m. keleivių skaičius augo net 42 % procentais, t. y. nuo 4,4 mln. iki 6,2 mln. keleivių per metus. Dviženklio procento augimu bus pažymėti ir 2019 metai."></i>
                     </li>
                     <li>Kokybiškos ir inovatyvios reklamos priemonės
                         <!-- Bottom tooltip-->
-                        <i class="far fa-question-circle" data-toggle="popover" data-placement="bottom" data-content="Naujas reklamos priemones šalies vartuose padėjo integruoti įmonė „Hansab“. Vilniaus, Kauno ir Palangos oro uostuose įrengti Sonny vaizdo ekranai kurių raiška siekia FHD (1080 x 1920) arba 4K (2160 x 3840). Oro uostuose įrengtos tekstilinės šviesdėžės dėka ryškaus ir tolygaus pašvietimo, kokybiško spaudos ir didelio formato neabejotinai atkreips keleivių dėmesį."></i>
+                        <i class="far fa-question-circle" data-toggle="popover" data-placement="bottom" data-content="Naujas reklamos priemones šalies vartuose padėjo integruoti įmonė „Hansab“. Vilniaus, Kauno ir Palangos oro uostuose įrengti „Samsung“ vaizdo ekranai, kurių raiška siekia FHD (1080 x 1920) arba 4K (2160 x 3840). Dėl oro uostuose įrengtos tekstilinės šviesdėžės ryškaus ir tolygaus apšvietimo, kokybiškos spaudos ir didelio formato reklama neabejotinai atkreips keleivių dėmesį."></i>
                     </li>
                     <li>Profesionalus reklamos išdėstymas
                         <!-- Bottom tooltip-->
-                        <i class="far fa-question-circle" data-toggle="popover" data-placement="bottom" data-content="Rekomendacijas sustiprinti skaitmeninės lauko reklamos (angl. Digital Out Of Home, DOOH) pozicijas Lietuvos oro uostams pateikė tarptautinė konsultacinė įmonė „Wildstone Consulting“, tarp kurios klientų yra Londono Sičio, Hitrou, Glazgo, Denverio ir kiti didieji pasaulio oro uostai. Ištyrusi oro uostų ir visos šalies reklamos rinką „Wildstone Consulting“ pateikė pasiūlymus skaitmeninės reklamos sprendimų lokacijoms, dizainui ir kitoms specifikacijoms."></i>
+                        <i class="far fa-question-circle" data-toggle="popover" data-placement="bottom" data-content="Rekomendacijas sustiprinti skaitmeninės lauko reklamos (angl. Digital Out Of Home, DOOH) pozicijas Lietuvos oro uostams pateikė tarptautinė konsultacinė įmonė „Wildstone Consulting“, tarp kurios klientų yra Londono Sičio, Hitrou, Glazgo, Denverio ir kiti didieji pasaulio oro uostai. Ištyrusi oro uostų ir visos šalies reklamos rinką „Wildstone Consulting“ pateikė skaitmeninės reklamos sprendimų lokacijų, dizaino ir kitų specifikacijų pasiūlymus."></i>
                     </li>
                     <li>Užtikrintintas matomumas
                         <!-- Bottom tooltip-->
-                        <i class="far fa-question-circle" data-toggle="popover" data-placement="bottom" data-content="Keleiviai prieš skrydį ar parvykę oro uostų erdvėse praleidžia nuo 30 iki 90 min. Izoliuota erdvė ir tinkamose lokacijose sumontuotos reklaminės priemonės užtikriną gerą jų matomumą. Įrengtuose vaizdo ekranuose yra patvirtinta 50sec vaizdo takelio trukmė, tai garantuoja, kad tuo pačiu periodu transliuojamos reklamos yra gerai matomos."></i>
+                        <i class="far fa-question-circle" data-toggle="popover" data-placement="bottom" data-content="Keleiviai prieš skrydį ar parvykę oro uostų erdvėse praleidžia nuo 30 iki 90 min. Izoliuota erdvė ir tinkamose lokacijose sumontuotos reklaminės priemonės užtikriną gerą jų matomumą. Įrengtuose vaizdo ekranuose yra patvirtinta 50 sek. vaizdo takelio trukmė, tai garantuoja, kad tuo pačiu periodu transliuojamos reklamos yra gerai matomos."></i>
                     </li>
                     <li>Mažas reklaminis triukšmas
                         <!-- Bottom tooltip-->
-                        <i class="far fa-question-circle" data-toggle="popover" data-placement="bottom" data-content="Mažiau yra daugiau. 2019 metais įgyvendindami reklamos priemonių atnaujinimo projektą atsisakėme nemažai senų menkaverčių reklaminių plotų juos pakeisdami kokybiškomis reklamos priemonėmis, parinkdami optimalų jų kiekį. Tokiu būdu mažau blaškome keleivių dėmesį, bei užtikriname gerą reklamų matomumą."></i>
+                        <i class="far fa-question-circle" data-toggle="popover" data-placement="bottom" data-content="Mažiau yra daugiau. 2019 m. įgyvendindami reklamos priemonių atnaujinimo projektą, atsisakėme nemažai senų menkaverčių reklaminių plotų, juos pakeitėme kokybiškomis reklamos priemonėmis, parinkome optimalų jų kiekį. Tai atlikę mažau blaškome keleivių dėmesį ir užtikriname gerą reklamų matomumą."></i>
                     </li>
                     <li>Transliacijos 24/7
                         <!-- Bottom tooltip-->
-                        <i class="far fa-question-circle" data-toggle="popover" data-placement="bottom" data-container="body" data-content="Lietuvos Oro uostuose reklamas transliuojame 24 valandas per parą."></i>
+                        <i class="far fa-question-circle" data-toggle="popover" data-placement="bottom" data-container="body" data-content="Lietuvos oro uostuose reklamas transliuojame 24 valandas per parą."></i>
                     </li>
                     <li>Didžiausia vaizdo siena vidaus patalpose
                         <!-- Bottom tooltip-->
-                        <i class="far fa-question-circle" data-toggle="popover" data-placement="bottom" data-container="body" data-content="Vilniaus oro uoste dabar įdiegta didžiausia vidaus vaizdo siena Lietuvoje - skaitmeninė siena išvykimo salėje užima net 36 kv. m."></i>
+                        <i class="far fa-question-circle" data-toggle="popover" data-placement="bottom" data-container="body" data-content="Vilniaus oro uoste dabar įdiegta didžiausia vidaus vaizdo siena Lietuvoje – skaitmeninė siena išvykimo salėje užima net 36 kv. m."></i>
                     </li>
                     <li>Perkamąją galią turinti auditorija
                         <!-- Bottom tooltip-->
-                        <i class="far fa-question-circle" data-toggle="popover" data-placement="bottom" data-container="body" data-content="Lietuvos oro uostuose koncentruojasi perkamąją galią turinti auditorija. Remiantis 2019 metais atlikto keleivių segmentavimo tyrimo duomenimis - net 30% Vilniaus oro uosto keleivių sudaro verslo ar darbo reikalai keliaujantys asmenys, 21% - savarankiški keliautojai. Atitinkamai Kauno oro uoste pirmauja savarankiški keliautojai 41% ir gimines bei draugus lankanktys keleiviai – 17%. Palangos oro uoste 22% keliauja dabo reikalais, 21% keliauja savarankiškai."></i>
+                        <i class="far fa-question-circle" data-toggle="popover" data-placement="bottom" data-container="body" data-content="Lietuvos oro uostuose koncentruojasi perkamąją galią turinti auditorija. Remiantis 2019 m. atlikto keleivių segmentavimo tyrimo duomenimis, net 30 % Vilniaus oro uosto keleivių sudaro verslo ar darbo reikalais keliaujantys asmenys, 21 % – savarankiški keliautojai. Atitinkamai Kauno oro uoste pirmauja savarankiški keliautojai – 41 % ir gimines bei draugus lankantys keleiviai – 17 %.  Palangos oro uoste 22 % keliauja darbo reikalais, 21 % keliauja savarankiškai."></i>
                     </li>
                 </ul>
                 <div class="container-fluid">
@@ -166,13 +168,13 @@
         <div class="row">
             <div class="col-lg-12">
                 <h2>Funkcijos</h2>
-                <p class="lead">Susiplanuokite reklamię kampaniją visuose trijuose Lietuvos oro uostuose per vieną įrankį!</p>
+                <p class="lead">Susiplanuokite reklaminę kampaniją visuose trijuose Lietuvos oro uostuose per vieną įrankį:</p>
                 <br>
                 <img src="images/Group%20257.png">
                 <ul>
-                    <li>Pamatykite bendrą reklaminių pozicijų vaizdą, peržvelgdami jas vidaus patalpose ir terminalų išorėje</li>
-                    <li>Lengvai parenkite reklaminę kampaniją atsižvelgdami į skiriamą biudžetą.</li>
-                    <li>Pradėję kampaniją, naudokitės svetaine sukelti reklaminei medžiagai ar ją koreguoti kampanijos eigoje.</li>
+                    <li>Pamatykite bendrą reklaminių pozicijų vaizdą, peržvelgę jas vidaus patalpose ir terminalų išorėje.</li>
+                    <li>Lengvai parenkite reklaminę kampaniją, atsižvelgę į skiriamą biudžetą.</li>
+                    <li>Pradėję kampaniją, naudokitės svetaine sukelti reklaminę medžiagą ar ją koreguoti kampanijos metu.</li>
                     <li>Matykite savo užsakymų istoriją ir statistiką.</li>
                 </ul>
             </div>
