@@ -26,8 +26,8 @@ $nav = "<nav class=\"navbar fixed-top navbar-expand-lg navbar-light bg-white\">
 </nav>
 
 <nav class=\"nav-cities\">
-    <a href=\"#\">VNO</a>
-    <a href=\"#\">KUN</a>
-    <a href=\"#\">PLQ</a>
+    <a href=\"https://www.vno.lt/\" target='_blank'>VNO</a>
+    <a href=\"https://www.kaunas-airport.lt/\" target='_blank'>KUN</a>
+    <a href=\"https://www.palanga-airport.lt/lt/\" target='_blank'>PLQ</a>
 </nav>";
 echo $nav;

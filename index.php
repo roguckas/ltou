@@ -29,7 +29,7 @@
                 <p class="col-lg-6 offset-xl-8">Jūsų patogumui sukūrėme analogų neturinčią reklamos užsakymo platformą.
                     Šio įrankio pagalba galėsite greitai ir efektyviai suplanuoti reklamos kampaniją Lietuvos oro uostų grupėje, kurioje – <b>84</b> aukštos kokybės vaizdo ekranai,
                     <b>46</b> šviesdėžės, <b>74</b> nestandartinių pozicijų ir didžiausia vaizdo siena vidaus patalpose.</p>
-                <button class="col-12 col-md-6 col-xl-4 offset-xl-8">Išbandyti</button>
+                <button class="col-12 col-md-6 col-xl-4 offset-xl-8 text-white">Išbandyti</button>
             </div>
         </div>
     </div>
@@ -109,9 +109,9 @@
                                 Atsisiųsti pristatymą
                             </button>
                             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                <a class="dropdown-item" href="/images/logos/amazon.png" download><i class="fas fa-file-download"></i>VNO</a>
-                                <a class="dropdown-item" href="/images/logos/amazon.png" download><i class="fas fa-file-download"></i>KUN</a>
-                                <a class="dropdown-item" href="/images/logos/amazon.png" download><i class="fas fa-file-download"></i>PLQ</a>
+                                <a class="dropdown-item" href="/VNO%20reklama.pdf" download><i class="fas fa-file-download"></i>VNO</a>
+                                <a class="dropdown-item" href="Reklamos%20galimybės%20Kauno%20oro%20uoste%20(su%20kaino%20mis).pdf" download><i class="fas fa-file-download"></i>KUN</a>
+                                <a class="dropdown-item" href="Planagos%20oro%20uosto%20reklamos%20priemonių%20prista%20tymas.pdf" download><i class="fas fa-file-download"></i>PLQ</a>
                             </div>
                         </div>
                     </div>
@@ -132,7 +132,7 @@
                     </div>
                     <div class="col row col-12 align-items-center justify-content-center services-text">
                         <h1 class="col justify-content-center">1</h1>
-                        <p class="col-8 text-left text-white">Pasirenkamos lokacijos</p>
+                        <h3 class="col-8 text-left text-white"><a href="/how-it-works.php#services">Pasirenkamos lokacijos</a></h3>
                     </div>
                 </div>
                 <div class="row col-md-12 col-xl-4 case-study">
@@ -141,7 +141,7 @@
                     </div>
                     <div class="col row col-12 align-items-center justify-content-center services-text">
                         <h1 class="col justify-content-center">2</h1>
-                        <p class="col-8 text-left text-white">Įkeliamas turinys, sukurima reklaminė kampanija</p>
+                        <h3 class="col-8 text-left text-white"><a href="/how-it-works.php#services">Įkeliamas turinys, sukurima reklaminė kampanija</a></h3>
                     </div>
                 </div>
                 <div class="row col-md-12 col-xl-4 case-study">
@@ -150,13 +150,13 @@
                     </div>
                     <div class="col row col-12 align-items-center justify-content-center services-text">
                         <h1 class="col justify-content-center">3 </h1>
-                        <p class="col-8 text-left text-white">Reklaminė kampanija administruojama ir valdoma</p>
+                        <h3 class="col-8 text-left text-white"><a href="/how-it-works.php#services">Reklaminė kampanija administruojama ir valdoma</a></h3>
                     </div>
                 </div>
             </div>
 
             <div class="col-12 buttons  justify-content-center">
-                <button class="col-sm-6 col-md-2 mr-5">Žiūrėti video</button>
+                <button class=" col-sm-6 col-md-2 mr-5"><a href="/how-it-works.php">Žiūrėti video</a></button>
                 <a href="/how-it-works.php#services">Skaityti daugiau <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>

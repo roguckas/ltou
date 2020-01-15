@@ -72,7 +72,7 @@ section {
     color: $white;
 
     &:hover {
-      background-color: $white;
+      background-color: transparent;
       color: $main_color;
     }
   }
@@ -143,8 +143,8 @@ section {
   button, .btn-secondary {
     transition: 0.2s;
     &:hover {
-      background-color: $white;
-      color: $main_color;
+      background-color: transparent;
+      color: $white;
       border: 2px solid $white;
     }
   }
