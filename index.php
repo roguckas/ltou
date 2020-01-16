@@ -64,7 +64,7 @@
                 <ul>
                     <li>Išskirtinė lokacija
                         <!-- Bottom tooltip-->
-                        <i class="far fa-question-circle" data-toggle="popover" data-placement="bottom" data-content="Lietuvos oro uostai, jungiantys tris šalies oro uostus, yra unikali vieta reklamai. Nuolatinis ir augantis keleivių srautas, perkamąją galią turinti auditorija, itin kokybiškos reklamos priemonės, geras jų matomumas ir pozityvi keleivių nuotaika yra tos dedamosios, kurios jūsų reklaminę kampaniją gali padaryti sėkmingą."></i>
+                        <i class="far fa-question-circle visible" data-toggle="popover" data-placement="bottom" data-content="Lietuvos oro uostai, jungiantys tris šalies oro uostus, yra unikali vieta reklamai. Nuolatinis ir augantis keleivių srautas, perkamąją galią turinti auditorija, itin kokybiškos reklamos priemonės, geras jų matomumas ir pozityvi keleivių nuotaika yra tos dedamosios, kurios jūsų reklaminę kampaniją gali padaryti sėkmingą."></i>
                     </li>
                     <li>Pastovus ir augantis auditorijos srautas
                         <!-- Bottom tooltip-->
@@ -223,6 +223,12 @@
             html: true
         });
 
+        $('html').on('click', function(e) {
+            if (typeof $(e.target).data('original-title') == 'undefined' &&
+                !$(e.target).parents().is('.popover.in')) {
+                $('[data-original-title]').popover('hide');
+            }
+        });
 
         function checkPosition() {
             if (window.matchMedia('(max-width: 767px)').matches) {
@@ -233,7 +239,6 @@
 
             }
         }
-
         checkPosition();
     });
 </script>

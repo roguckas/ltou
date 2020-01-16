@@ -21,7 +21,7 @@
                 </div>
                 <div class="row col-12 align-items-center justify-content-center services-text">
                     <h1 class="col d-flex justify-content-center">1</h1>
-                    <p class="col-8 d-flex justify-content-start text-white">Pasirenkamos lokacijos</p>
+                    <h3 class="col-8 d-flex justify-content-start text-white">Pasirenkamos lokacijos</h3>
                 </div>
             </div>
             <div class="col row align-items-center case-study">
@@ -30,7 +30,7 @@
                 </div>
                 <div class="row col-12 align-items-center justify-content-center services-text">
                     <h1 class="col d-flex justify-content-center">2</h1>
-                    <p class="col-8 d-flex justify-content-start text-white">Įkeliamas turinys, sukurima reklaminė kampanija</p>
+                    <h3 class="col-8 d-flex justify-content-start text-white">Įkeliamas turinys, sukurima reklaminė kampanija</h3>
                 </div>
             </div>
             <div class="col row align-items-center case-study">
@@ -39,14 +39,14 @@
                 </div>
                 <div class="row col-12 align-items-center justify-content-center services-text">
                     <h1 class="col d-flex justify-content-center">3</h1>
-                    <p class="col-8 d-flex justify-content-start text-white">Reklaminė kampanija administruojama ir valdoma</p>
+                    <h3 class="col-8 d-flex justify-content-start text-white">Reklaminė kampanija administruojama ir valdoma</h3>
                 </div>
             </div>
         </div>
     </div>
     <div class="container-fluid col-xl-10">
-        <div class="row mt-5 pt-5 justify-content-center bg-white">
-            <div class="col-12 col-lg-4 pl-lg-5">
+        <div class="row justify-content-center bg-white">
+            <div class="col-12 dotted-border col-lg-4 pl-lg-5">
                 <ul class="list-group">
                     <li>
                         <h3 class="d-inline">Interaktyvus žemėlapis</h3>
@@ -70,7 +70,7 @@
                     </li>
                 </ul>
             </div>
-            <div class="col-12 col-lg-4 pl-lg-5">
+            <div class="col-12 dotted-border col-lg-4 pl-lg-5">
                 <ul class="list-group">
                     <li>
                         <h3 class="d-inline">Kainos ir laikotarpio pasirinkimas</h3>

@@ -15,8 +15,12 @@ img {
   height: auto;
 }
 
+.dotted-border {
+  border-right: 1px dotted $main_color;
+}
+
 section {
-  padding: 70px auto;
+  padding: 70px 0;
 }
 
 .row {
@@ -282,13 +286,6 @@ section {
 
 .duk-list-item {
   border-bottom: 2px solid $grey-light;
-}
-
-.list-group {
-  p {
-    font-weight: 400;
-  }
-
 }
 
 .bg-white {
