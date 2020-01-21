@@ -16,10 +16,12 @@ $nav = "<nav class=\"navbar fixed-top navbar-expand-lg navbar-light bg-white\">
         <a class=\"nav-link\" href=\"contact.php\">Kontaktai</a>
       </li>
       <li class=\"nav-item m-lg-auto pl-lg-5 pr-lg-3 text-md-left\">
-        <a class=\"nav-link\" href=\"#\">Prisijungti</a>
+        <a class=\"nav-link\" href=\"https://reklama.ltou.lt/app/building/1#login\">Prisijungti</a>
       </li>
       <li class=\"nav-item m-lg-auto\">
-      <button class='btn btn-primary m-lg-auto px-3 nav-link text-white'>Registruotis</button>
+      <button class='btn btn-primary m-lg-auto px-3 nav-link text-white'>
+        <a class='text-white' href='https://reklama.ltou.lt/app/building/1#register'>Registruotis</a>
+      </button>
       </li>
     </ul>
   </div>

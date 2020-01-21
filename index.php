@@ -25,11 +25,13 @@
         </div>
         <div class="container text-left text-white position-absolute d-none d-md-block">
             <div class="row">
-                <h1 class="col-lg-6 offset-xl-8">Reklamos užsakymas Lietuvos oro uostuose</h1>
+                <h1 class="col-lg-6 offset-xl-8"><b>Reklamos užsakymas</b> Lietuvos oro uostuose</h1>
                 <p class="col-lg-6 offset-xl-8">Jūsų patogumui sukūrėme analogų neturinčią reklamos užsakymo platformą.
                     Šio įrankio pagalba galėsite greitai ir efektyviai suplanuoti reklamos kampaniją Lietuvos oro uostų grupėje, kurioje – <b>84</b> aukštos kokybės vaizdo ekranai,
                     <b>46</b> šviesdėžės, <b>74</b> nestandartinių pozicijų ir didžiausia vaizdo siena vidaus patalpose.</p>
-                <button class="col-12 col-md-6 col-xl-4 offset-xl-8 text-white">Išbandyti</button>
+                    <a class="col-12 col-md-6 col-xl-4 offset-xl-8 " href="https://reklama.ltou.lt/app/building/1#login">
+                        <button class="col-12 text-white">Išbandyti</button>
+                    </a>
             </div>
         </div>
     </div>
@@ -39,7 +41,6 @@
         <li data-target="#carouselExampleControls" data-slide-to="2"></li>
         <li data-target="#carouselExampleControls" data-slide-to="3"></li>
         <li data-target="#carouselExampleControls" data-slide-to="4"></li>
-        <li data-target="#carouselExampleControls" data-slide-to="5"></li>
     </ol>
 </div>
 
@@ -48,7 +49,9 @@
         <div class="row">
             <h1 class="col-lg-6 offset-xl-8">Reklamos užsakymas Lietuvos oro uostuose</h1>
             <p class="col-lg-6 offset-xl-8">Jūsų patogumui sukūrėme analogų neturinčią reklamos užsakymo platformą. Šio įrankio pagalba galėsite greitai ir efektyviai suplanuoti reklamos kampaniją Lietuvos oro uostų grupėje, kurioje – 84 aukštos kokybės vaizdo ekranai, 46 šviesdėžės, 74 nestandartinių pozicijų ir didžiausia vaizdo siena vidaus patalpose.</p>
-            <button class="col-12 col-md-6 col-xl-4 offset-xl-8">Išbandyti</button>
+            <a class="col-12 col-md-6 col-xl-4 " href="https://reklama.ltou.lt/app/building/1#login">
+                <button class="col-12 offset-xl-8">Išbandyti</button>
+            </a>
         </div>
     </div>
 </header>
@@ -102,7 +105,7 @@
                 <div class="container-fluid">
                     <div class="row align-items-center">
                         <div class="btn col-sm-12 col-md-5 col-lg-3">
-                            <button class="col">D.U.K</button>
+                            <a href="duk.php"><button class="col">D.U.K</button></a>
                         </div>
                         <div class="col-sm-12 col-md-5 col-lg-4 dropdown text-center">
                             <button class="dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -132,7 +135,7 @@
                     </div>
                     <div class="col row col-12 align-items-center justify-content-center services-text">
                         <h1 class="col justify-content-center">1</h1>
-                        <h3 class="col-8 text-left text-white"><a href="/how-it-works.php#services">Pasirenkamos lokacijos</a></h3>
+                        <h3 class="col-8 text-left text-white"><a href="how-it-works.php#services">Pasirenkamos lokacijos</a></h3>
                     </div>
                 </div>
                 <div class="row col-md-12 col-xl-4 case-study">
@@ -141,7 +144,7 @@
                     </div>
                     <div class="col row col-12 align-items-center justify-content-center services-text">
                         <h1 class="col justify-content-center">2</h1>
-                        <h3 class="col-8 text-left text-white"><a href="/how-it-works.php#services">Įkeliamas turinys, sukurima reklaminė kampanija</a></h3>
+                        <h3 class="col-8 text-left text-white"><a href="how-it-works.php#services">Įkeliamas turinys, sukurima reklaminė kampanija</a></h3>
                     </div>
                 </div>
                 <div class="row col-md-12 col-xl-4 case-study">
@@ -150,14 +153,14 @@
                     </div>
                     <div class="col row col-12 align-items-center justify-content-center services-text">
                         <h1 class="col justify-content-center">3 </h1>
-                        <h3 class="col-8 text-left text-white"><a href="/how-it-works.php#services">Reklaminė kampanija administruojama ir valdoma</a></h3>
+                        <h3 class="col-8 text-left text-white"><a href="how-it-works.php#services">Reklaminė kampanija administruojama ir valdoma</a></h3>
                     </div>
                 </div>
             </div>
 
             <div class="col-12 buttons  justify-content-center">
-                <button class=" col-sm-6 col-md-2 mr-5"><a href="/how-it-works.php">Žiūrėti video</a></button>
-                <a href="/how-it-works.php#services">Skaityti daugiau <i class="fas fa-chevron-right"></i></a>
+                <button class=" col-sm-6 col-md-2 mr-5"><a href="how-it-works.php">Žiūrėti video</a></button>
+                <a href="how-it-works.php#services">Skaityti daugiau <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
     </div>

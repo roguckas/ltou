@@ -14,7 +14,7 @@
     </div>
 </header>
 
-<div class="container-fluid col-12 col-lg-8  mt-5 pt-5 ">
+<div class="container-fluid col-12 col-xl-8 col-md-10 mt-5 pt-5 ">
     <ul class="row text-left duk-list">
         <li class="col-12 align-self-center pb-5 duk-list-item">
             <h3 class="d-inline-block ">Ar ekranai veikia nakties metu?</h3>

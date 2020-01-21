@@ -73,6 +73,7 @@ section {
 .btn {
   button {
     background-color: $main_color;
+    border: 2px solid $main_color;
     color: $white;
 
     &:hover {
