@@ -199,6 +199,7 @@
                         <img class="col-3" src="images/logos/amazon.png">
                         <img class="col-3" src="images/logos/ideo.png">
                         <img class="col-3" src="images/logos/facebook.png">
+                        
                     </div>
                 </div>
             </div>
