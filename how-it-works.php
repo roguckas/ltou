@@ -46,22 +46,22 @@
     </div>
     <div class="container-fluid col-xl-10">
         <div class="row justify-content-center bg-white">
-            <div class="col-12 dotted-border col-lg-4 pl-lg-5">
+            <div class="col-12 dotted-border col-lg-4 pl-lg-5  pr-lg-5">
                 <ul class="list-group">
                     <li>
                         <h3 class="d-inline">Interaktyvus žemėlapis</h3>
                         <br>
-                        <p class="text-left">Visų oro uostų žemėlapiai turi pasirenkamas zonas, atvaizduojami bet kokiame ekrane, o reklamos priemones galima pasirinkti tiek iš sąrašo, tiek tiesiai iš žemėlapių</p>
+                        <p class="text-justify">Visų oro uostų žemėlapiai turi pasirenkamas zonas, atvaizduojami bet kokiame ekrane, o reklamos priemones galima pasirinkti tiek iš sąrašo, tiek tiesiai iš žemėlapių</p>
                     </li>
                     <li>
                         <h3 class="d-inline">Zonų pasirinkimas</h3>
                         <br>
-                        <p class="text-left">Norite, kad jūsų reklamą pamatytų tik išvykstantys ar tik atvykstantys keleiviai? Reklamos užsakymo puslapyje nesunkiai išfiltruosite reklamas pagal jų zonavimą ir jūsų tikslinės auditorijos poreikius</p>
+                        <p class="text-justify">Norite, kad jūsų reklamą pamatytų tik išvykstantys ar tik atvykstantys keleiviai? Reklamos užsakymo puslapyje nesunkiai išfiltruosite reklamas pagal jų zonavimą ir jūsų tikslinės auditorijos poreikius</p>
                     </li>
                     <li>
                         <h3 class="d-inline">Ekranai, šviesdėžės ir kitos priemonės</h3>
                         <br>
-                        <p class="text-left">Visuose oro uostuose veikia daugiau nei 100 reklamos ekranų, taip pat siūlome pozicijas moderniose šviesdėžėse. Esame atviri ir nestandartiniams sprendimams, tokiems kaip bagažo vežimėlių apipavidalinimas ar reklama, rodoma prisijungiant prie oro uosto Wi-Fi tinklo</p>
+                        <p class="text-justify">Visuose oro uostuose veikia daugiau nei 100 reklamos ekranų, taip pat siūlome pozicijas moderniose šviesdėžėse. Esame atviri ir nestandartiniams sprendimams, tokiems kaip bagažo vežimėlių apipavidalinimas ar reklama, rodoma prisijungiant prie oro uosto Wi-Fi tinklo</p>
                     </li>
                     <li>
                         <h3 class="d-inline">Terminalo ir lauko lokacijos</h3>
@@ -70,46 +70,46 @@
                     </li>
                 </ul>
             </div>
-            <div class="col-12 dotted-border col-lg-4 pl-lg-5">
+            <div class="col-12 dotted-border col-lg-4 pl-lg-5  pr-lg-5">
                 <ul class="list-group">
                     <li>
                         <h3 class="d-inline">Kainos ir laikotarpio pasirinkimas</h3>
                         <br>
-                        <p class="text-left">Ieškodami laisvų reklamos priemonių, jas galite filtruoti pagal laiko, kainos, laisvų reklaminių takelių kriterijus. Kadangi įrankis leis rezervuoti tik laisvas reklamos priemones, derinimo procesas truks trumpiau</p>
+                        <p class="text-justify">Ieškodami laisvų reklamos priemonių, jas galite filtruoti pagal laiko, kainos, laisvų reklaminių takelių kriterijus. Kadangi įrankis leis rezervuoti tik laisvas reklamos priemones, derinimo procesas truks trumpiau</p>
                     </li>
                     <li>
                         <h3 class="d-inline">Klientas pats įkelia turinį</h3>
                         <br>
-                        <p class="text-left">Kokybiški reklaminiai failai dažnai būna dideli – tam, kad nereiktų jų siuntinėti internetu, mūsų klientai gali patys sukelti norimą turinį į pasirinktas ir rezervuotas reklamines priemones</p>
+                        <p class="text-justify">Kokybiški reklaminiai failai dažnai būna dideli – tam, kad nereiktų jų siuntinėti internetu, mūsų klientai gali patys sukelti norimą turinį į pasirinktas ir rezervuotas reklamines priemones</p>
                     </li>
                     <li>
                         <h3 class="d-inline">Komercinių pasiūlymų kūrimas</h3>
                         <br>
-                        <p class="text-left">Reikia pasikonsultuoti su kolegomis? Sukurtą reklaminę kampaniją galite parsisiųsti PDF formatu kaip komercinį pasiūlymą. Pasiūlyme matosi visos reklaminės priemonės ir jų kainos, kad galėtumėte priimti geriausią sprendimą</p>
+                        <p class="text-justify">Reikia pasikonsultuoti su kolegomis? Sukurtą reklaminę kampaniją galite parsisiųsti PDF formatu kaip komercinį pasiūlymą. Pasiūlyme matosi visos reklaminės priemonės ir jų kainos, kad galėtumėte priimti geriausią sprendimą</p>
                     </li>
                     <li>
                         <h3 class="d-inline">Trys oro uostai</h3>
                         <br>
-                        <p class="text-left">Vieną reklaminę kampaniją galima rezervuoti ir pasitvirtinti vienu metu visiems oro uostams – jums nereiks sudarinėti atskirų sutarčių ar daryti trijų skirtingų užsakymų</p>
+                        <p class="text-justify">Vieną reklaminę kampaniją galima rezervuoti ir pasitvirtinti vienu metu visiems oro uostams – jums nereiks sudarinėti atskirų sutarčių ar daryti trijų skirtingų užsakymų</p>
                     </li>
                 </ul>
             </div>
-            <div class="col-12 col-lg-4 pl-lg-5">
+            <div class="col-12 col-lg-4 pl-lg-5  pr-lg-5">
                 <ul class="list-group">
                     <li>
                         <h3 class="d-inline">Paprastas administravimas</h3>
                         <br>
-                        <p class="text-left">Vienas žmogus gali valdyti visas reklamines pozicijas visuose trijuose oro uostuose, keisti turinį, kuris matomas ekranuose, pratęsti ar sukurti naują reklaminę kampaniją keliais mygtuko paspaudimais</p>
+                        <p class="text-justify">Vienas žmogus gali valdyti visas reklamines pozicijas visuose trijuose oro uostuose, keisti turinį, kuris matomas ekranuose, pratęsti ar sukurti naują reklaminę kampaniją keliais mygtuko paspaudimais</p>
                     </li>
                     <li>
                         <h3 class="d-inline">Statistiniai duomenys</h3>
                         <br>
-                        <p class="text-left">Prisijungę prie sistemos matykite, kiek kartų jūsų reklama jau buvo parodyta, iki kada ji bus transliuojama, bei kokios yra jūsų išlaidos reklamai oro uostose</p>
+                        <p class="text-justify">Prisijungę prie sistemos matykite, kiek kartų jūsų reklama jau buvo parodyta, iki kada ji bus transliuojama, bei kokios yra jūsų išlaidos reklamai oro uostose</p>
                     </li>
                     <li>
                         <h3 class="d-inline">Palaikymas</h3>
                         <br>
-                        <p class="text-left">Kiekvienai reklaminei kampanijai priskiriamas atskiras pardavimo vadovas, kuris rūpinasi jo sėkme – drąsiai kreipkitės, jei reikia konsultacijos ar pagalbos</p>
+                        <p class="text-justify">Kiekvienai reklaminei kampanijai priskiriamas atskiras pardavimo vadovas, kuris rūpinasi jo sėkme – drąsiai kreipkitės, jei reikia konsultacijos ar pagalbos</p>
                     </li>
                 </ul>
             </div>
