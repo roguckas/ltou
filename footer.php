@@ -12,7 +12,9 @@ $footer = "<footer class=\"footer\">
             <a class='text-white' href='contact.php'>Kontaktai</a>
         </button>
     </div>
-    <div class=\"col-12 footer-bottom\"></div>
+    <div class=\"col-12 footer-bottom text-center\">
+        <a href='terms.php' class='text-white'>Sąlygos ir nuostatos</a>
+    </div>
     <!-- /.container -->
 </footer>";
 
