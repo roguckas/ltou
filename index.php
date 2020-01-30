@@ -211,6 +211,8 @@
                         <img class="col-6 col-md-3 mr-md-5 mt-3" src="images/logos/optibet.svg">
                         <img class="col-6 col-md-3 mr-md-5 mt-3" src="images/logos/Logo_Hegelmann_LT.svg">
                         <img class="col-6 col-md-3 mr-md-5 mt-3" src="images/logos/park-inn.svg">
+                        <img class="col-6 col-md-3 mr-md-5 mt-3" src="images/logos/mega.svg">
+                        <img class="col-6 col-md-3 mr-md-5 mt-3" src="images/logos/akropolis.svg">
                     </div>
                 </div>
             </div>
