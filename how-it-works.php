@@ -120,24 +120,24 @@
     <div class="row single-item justify-content-center multiple-items">
         <h1 class="col-12 pb-5 mb-5">Apie mus rašo</h1>
         <div class="single-item col-xl-3  col-md-8 mb-5 p-5 mr-lg-5 text-center bg-info">
-            <img src="https://g2.dcdn.lt/glt/c/delfi-header-2017/l/delfi.svg">
+            <img src="https://cdn1.hellovilnius.lt/wp-content/uploads/2016/12/ok_MadeInVilnius_BE-RODYKLES-1-e1480935181661.png">
             <div class="text-left">
                 <p class="pt-5">Lietuvos oro uostai įgyvendino didelio masto atsinaujinimą, kurio metu įprastus partneriams siūlytus reklamos sprendimus pakeitė efektyviomis skaitmeninėmis priemonėmis, kurioms ateityje numatomas didelis potencialas augti.</p>
-                <a href="#" target="_blank">Skaityti daugiau <i class="d-inline fas fa-chevron-right"></i></a>
+                <a href="https://madeinvilnius.lt/naujienos/transportas/oro-uostas/vilniaus-oro-uoste-irengta-didziausia-vidaus-vaizdo-siena-lietuvoje/" target="_blank">Skaityti daugiau <i class="d-inline fas fa-chevron-right"></i></a>
             </div>
         </div>
         <div class="single-item col-xl-3 col-md-8 mb-5 p-5 mr-lg-5 text-center bg-info">
-            <img src="https://g2.dcdn.lt/glt/c/delfi-header-2017/l/delfi.svg">
+            <img src="https://www.etaplius.lt/logo.png?v18">
             <div class="text-left">
                 <p class="pt-5">Lietuvos oro uostai įgyvendino didelio masto atsinaujinimą, kurio metu įprastus partneriams siūlytus reklamos sprendimus pakeitė efektyviomis skaitmeninėmis priemonėmis, kurioms ateityje numatomas didelis potencialas augti.</p>
-                <a href="#" target="_blank">Skaityti daugiau <i class="d-inline fas fa-chevron-right"></i></a>
+                <a href="https://www.etaplius.lt/lietuvos-oro-uostuose-rekordinis-reklamos-priemoniu-modernizavimas-ir-didziausia-lietuvoje-vidaus-patalpu-vaizdo-siena" target="_blank">Skaityti daugiau <i class="d-inline fas fa-chevron-right"></i></a>
             </div>
         </div>
         <div class=" single-item col-xl-3 col-md-8 mb-5 p-5 mr-lg-5 text-center bg-info">
             <img src="https://g2.dcdn.lt/glt/c/delfi-header-2017/l/delfi.svg">
             <div class="text-left">
                 <p class="pt-5">Lietuvos oro uostai įgyvendino didelio masto atsinaujinimą, kurio metu įprastus partneriams siūlytus reklamos sprendimus pakeitė efektyviomis skaitmeninėmis priemonėmis, kurioms ateityje numatomas didelis potencialas augti.</p>
-                <a href="#" target="_blank">Skaityti daugiau <i class="d-inline fas fa-chevron-right"></i></a>
+                <a href="https://www.delfi.lt/m360/naujausi-straipsniai/lietuvos-oro-uostai-atsinaujino-idiegta-daugiau-nei-100-nauju-reklamos-priemoniu.d?id=80404903" target="_blank">Skaityti daugiau <i class="d-inline fas fa-chevron-right"></i></a>
             </div>
         </div>
     </div>
