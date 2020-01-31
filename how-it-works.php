@@ -21,7 +21,7 @@
                 </div>
                 <div class="row col-12 align-items-center justify-content-center services-text">
                     <h1 class="col d-flex justify-content-center">1</h1>
-                    <h3 class="col-8 d-flex justify-content-start text-white">Pasirenkamos lokacijos</h3>
+                    <h3 class="col-8 d-flex justify-content-start text-white">Pasirenkamos reklamos pozicijos</h3>
                 </div>
             </div>
             <div class="col row align-items-center case-study">

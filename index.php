@@ -112,7 +112,7 @@
                                 Atsisiųsti pristatymą
                             </button>
                             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                <a class="dropdown-item" href="/VNO%20reklama.pdf" download><i class="fas fa-file-download"></i>VNO</a>
+                                <a class="dropdown-item" href="VNO%20reklama.pdf" download><i class="fas fa-file-download"></i>VNO</a>
                                 <a class="dropdown-item" href="Reklamos%20galimybės%20Kauno%20oro%20uoste%20(su%20kaino%20mis).pdf" download><i class="fas fa-file-download"></i>KUN</a>
                                 <a class="dropdown-item" href="Planagos%20oro%20uosto%20reklamos%20priemonių%20prista%20tymas.pdf" download><i class="fas fa-file-download"></i>PLQ</a>
                             </div>
@@ -135,7 +135,7 @@
                     </div>
                     <div class="col row col-12 align-items-center justify-content-center services-text">
                         <h1 class="col justify-content-center">1</h1>
-                        <h3 class="col-8 text-left text-white"><a href="how-it-works.php#services">Pasirenkamos lokacijos</a></h3>
+                        <h3 class="col-8 text-left text-white"><a href="how-it-works.php#services">Pasirenkamos reklamos pozicijos</a></h3>
                     </div>
                 </div>
                 <div class="row col-md-12 col-xl-4 case-study">
@@ -144,7 +144,7 @@
                     </div>
                     <div class="col row col-12 align-items-center justify-content-center services-text">
                         <h1 class="col justify-content-center">2</h1>
-                        <h3 class="col-8 text-left text-white"><a href="how-it-works.php#services">Įkeliamas turinys, sukurima reklaminė kampanija</a></h3>
+                        <h3 class="col-8 text-left text-white"><a href="how-it-works.php#services">Įkeliamas turinys, sukuriama reklaminė kampanija</a></h3>
                     </div>
                 </div>
                 <div class="row col-md-12 col-xl-4 case-study">
