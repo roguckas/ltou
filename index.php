@@ -202,7 +202,7 @@
                         <img class="col-6 col-md-2 mr-md-5 mt-5" src="images/logos/narbutas.svg">
                         <img class="col-6 col-md-2 mr-md-5 mt-5" src="images/logos/dpc-02.svg">
 
-                        <img class="col-6 col-md-3 mr-md-5" src="images/logos/Huawei.svg">
+                        <img class="col-6 col-md-3 mr-md-5" src="images/logos/huawei.svg">
                         <img class="col-6 col-md-3 mr-md-5" src="images/logos/Logo_Hegelmann_LT.svg">
                         <img class="col-6 col-md-2 mr-md-5" src="images/logos/samsung.svg">
 
