@@ -56,7 +56,7 @@
     </div>
 </header>
 
-<section id="about">
+<section id="about" class="mt-md-5">
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-md-12 offset-md-1 col-lg-12 col-xl-5">
@@ -195,23 +195,23 @@
                     <div class="row justify-content-center col-12">
                         <img class="col-6 col-md-3 mr-md-5" src="images/logos/tez-tour.png">
                         <img class="col-6 col-md-3 mr-md-5" src="images/logos/investuok-lietuvoje.svg">
-                        <img class="col-6 col-md-3 mr-md-5" src="images/logos/govilnius.svg">
+                        <img class="col-6 col-md-3 mr-md-5 mt-5 mt-md-0" src="images/logos/govilnius.svg">
 
                         <img class="col-6 col-md-2 mr-md-5 mt-5" src="images/logos/paysera.svg">
                         <img class="col-6 col-md-2 mr-md-5 mt-5" src="images/logos/optibet.svg">
                         <img class="col-6 col-md-2 mr-md-5 mt-5" src="images/logos/narbutas.svg">
-                        <img class="col-6 col-md-2 mr-md-5 mt-5" src="images/logos/dpc-02.svg">
+                        <img class="col-6 col-md-2 mr-md-5 mt-0 mt-md-5" src="images/logos/dpc-02.svg">
 
-                        <img class="col-6 col-md-3 mr-md-5" src="images/logos/huawei.svg">
-                        <img class="col-6 col-md-3 mr-md-5" src="images/logos/Logo_Hegelmann_LT.svg">
+                        <img class="col-6 col-md-3 mr-md-5 mt-1 mt-md-0" src="images/logos/huawei.svg">
+                        <img class="col-6 col-md-3 mr-md-5 mt-1 mt-md-0" src="images/logos/Logo_Hegelmann_LT.svg">
                         <img class="col-6 col-md-2 mr-md-5" src="images/logos/samsung.svg">
 
-                        <img class="col-6 col-md-2 mr-md-5" src="images/logos/citybee.svg">
-                        <img class="col-6 col-md-2 mr-md-5" src="images/logos/gameinsight.svg">
-                        <img class="col-6 col-md-2 mr-md-5" src="images/logos/airbaltic.60568592.svg">
-                        <img class="col-6 col-md-2 mr-md-5" src="images/logos/grohe.svg">
+                        <img class="col-6 col-md-2 mr-md-5 mt-5 mt-md-0" src="images/logos/citybee.svg">
+                        <img class="col-6 col-md-2 mr-md-5 mt-5 mt-md-0" src="images/logos/gameinsight.svg">
+                        <img class="col-6 col-md-2 mr-md-5 mt-5 mt-md-0" src="images/logos/airbaltic.60568592.svg">
+                        <img class="col-6 col-md-2 mr-md-5 mt-5 mt-md-0" src="images/logos/grohe.svg">
 
-                        <img class="col-6 col-md-2 mr-md-5 mt-4" src="images/logos/akropolis.svg">
+                        <img class="col-6 col-md-2 mr-md-5 mt-5" src="images/logos/akropolis.svg">
                         <img class="col-6 col-md-2 mr-md-5 mt-4" src="images/logos/tui-logo.svg">
                         <img class="col-6 col-md-2 mr-md-5 mt-5" src="images/logos/ignitis.svg">
                         <img class="col-6 col-md-2 mr-md-5 mt-4" src="images/logos/mega.svg">

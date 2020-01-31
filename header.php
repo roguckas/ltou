@@ -12,9 +12,10 @@ $nav = "<nav class=\"navbar fixed-top navbar-expand-lg navbar-light bg-white\">
       <li class=\"nav-item m-lg-auto text-md-left  pl-lg-2\">
         <a class=\"nav-link\" href=\"duk.php\">D.U.K</a>
       </li>
-      <li class=\"nav-item m-lg-auto text-md-left pl-lg-2\">
+ <!--     <li class=\"nav-item m-lg-auto text-md-left pl-lg-2\">
         <a class=\"nav-link\" href=\"contact.php\">Kontaktai</a>
       </li>
+      -->
       <li class=\"nav-item m-lg-auto pl-lg-5 pr-lg-3 text-md-left\">
         <a class=\"nav-link\" href=\"https://reklama.ltou.lt/app/building/1#login\">Prisijungti</a>
       </li>

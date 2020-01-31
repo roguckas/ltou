@@ -221,7 +221,7 @@ button:hover, .btn-secondary:hover {
   }
 
   p {
-    font-size: 1vw;
+    font-size: 0.96vw;
     font-weight: 300;
   }
 
@@ -266,11 +266,6 @@ section {
 .bg-primary {
   background-color: #20A2EC !important;
   color: white;
-}
-
-#about, #functions {
-  padding: 70px auto;
-  margin: 50px auto;
 }
 
 section ul {
@@ -398,8 +393,9 @@ section .bg-primary li:before {
   background-position: center;
 }
 .footer h3 {
-  padding: 60px 0;
-  margin: 60px 0;
+  padding: 30px 0;
+  padding-bottom: 0;
+  margin: 30px 0;
   color: #20A2EC;
   text-transform: uppercase;
 }
