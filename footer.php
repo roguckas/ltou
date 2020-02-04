@@ -4,11 +4,7 @@ $footer = "<footer class=\"footer\">
        <button class=\"btn col-sm-12 col-md-8\">
             <a class='text-white' href='https://reklama.ltou.lt/app/building/1#login'>Pradėti naudotis</a>
        </button>
-<!--        <div class=\"footer-info\">
-            <h3>Reikalinga papildoma informacija?<br> Susisiekime!</h3>
-            <br>
-        </div>
-        -->
+
         <section class=\"container\" id=\"container-fluid services\">
     <div class=\"row justify-content-center\">
         <div class=\"col col-md-6 col-xl-4 mb-5 pb-md-5  row\">
