@@ -29,7 +29,7 @@
         <li class="col-12 align-self-center pb-5 duk-list-item">
             <h3 class="d-inline-block">Kokiu formatu turiu paruošti reklamą ekranams ar šviesdėžėms?</h3>
             <br>
-            <p class="text-left">Išsamius reikalavimus galite parsisiųsti čia: <a href="Reklamų-reikalavimai.zip" download>nuoroda į PDF su reikalavimais.</a></p>
+            <p class="text-left">Išsamius reikalavimus galite parsisiųsti čia: <a href="Turinio_reikalavimai.zip" download>nuoroda į PDF su reikalavimais.</a></p>
         </li>
         <li class="col-12 align-self-center pb-5 duk-list-item">
             <h3 class="d-inline-block">Kiek laiko trunka reklamos derinimas? </h3>

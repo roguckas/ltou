@@ -71,7 +71,7 @@
                     </li>
                     <li>Pastovus ir augantis auditorijos srautas
                         <!-- Bottom tooltip-->
-                        <i class="far fa-question-circle" data-toggle="popover" data-placement="bottom" data-content="Lietuvos oro uostuose nuo oro uostų sujungimo pradžios 2014 m. iki 2018 m. keleivių skaičius augo net 42 % procentais, t. y. nuo 4,4 mln. iki 6,2 mln. keleivių per metus. Dviženklio procento augimu bus pažymėti ir 2019 metai."></i>
+                        <i class="far fa-question-circle" data-toggle="popover" data-placement="bottom" data-content="Lietuvos oro uostuose nuo oro uostų sujungimo pradžios 2014 m. iki 2018 m. keleivių skaičius augo net 42 % procentais, t. y. nuo 4,4 mln. iki 6,2 mln. keleivių per metus."></i>
                     </li>
                     <li>Kokybiškos ir inovatyvios reklamos priemonės
                         <!-- Bottom tooltip-->

@@ -61,7 +61,7 @@
                     <li>
                         <h3 class="d-inline">Ekranai, šviesdėžės ir kitos priemonės</h3>
                         <br>
-                        <p class="text-justify">Visuose oro uostuose veikia daugiau nei 100 reklamos ekranų, taip pat siūlome pozicijas moderniose šviesdėžėse. Esame atviri ir nestandartiniams sprendimams, tokiems kaip bagažo vežimėlių apipavidalinimas ar reklama, rodoma prisijungiant prie oro uosto Wi-Fi tinklo</p>
+                        <p class="text-justify">Visuose oro uostuose veikia 84 reklamos ekranai, taip pat siūlome pozicijas moderniose šviesdėžėse. Esame atviri ir nestandartiniams sprendimams, tokiems kaip bagažo vežimėlių apipavidalinimas ar reklama, rodoma prisijungiant prie oro uosto Wi-Fi tinklo</p>
                     </li>
                     <li>
                         <h3 class="d-inline">Terminalo ir lauko lokacijos</h3>
@@ -117,28 +117,36 @@
     </div>
 </section>
 <div class="container-fluid text-center articles pt-5 mt-5 mb-5">
-    <div class="row single-item justify-content-center multiple-items">
+    <div class="row single-item justify-content-center multiple-items pb-5">
         <h1 class="col-12 pb-5 mb-5">Apie mus rašo</h1>
-        <div class="single-item col-xl-3  col-md-8 mb-5 p-5 mr-lg-5 text-center bg-info">
-            <img src="https://cdn1.hellovilnius.lt/wp-content/uploads/2016/12/ok_MadeInVilnius_BE-RODYKLES-1-e1480935181661.png">
-            <div class="text-left">
-                <p class="pt-5">Lietuvos oro uostai įgyvendino didelio masto atsinaujinimą, kurio metu įprastus partneriams siūlytus reklamos sprendimus pakeitė efektyviomis skaitmeninėmis priemonėmis, kurioms ateityje numatomas didelis potencialas augti.</p>
-                <a href="https://madeinvilnius.lt/naujienos/transportas/oro-uostas/vilniaus-oro-uoste-irengta-didziausia-vidaus-vaizdo-siena-lietuvoje/" target="_blank">Skaityti daugiau <i class="d-inline fas fa-chevron-right"></i></a>
-            </div>
+        <div class="single-item col-xl-4 col-md-8 mb-5 text-center ">
+            <a href="https://madeinvilnius.lt/naujienos/transportas/oro-uostas/vilniaus-oro-uoste-irengta-didziausia-vidaus-vaizdo-siena-lietuvoje/" target="_blank">
+                <img src="https://cdn1.hellovilnius.lt/wp-content/uploads/2016/12/ok_MadeInVilnius_BE-RODYKLES-1-e1480935181661.png">
+            </a>
+<!--            <div class="text-left">-->
+<!--                <p class="pt-5">Lietuvos oro uostai įgyvendino didelio masto atsinaujinimą, kurio metu įprastus partneriams siūlytus reklamos sprendimus pakeitė efektyviomis skaitmeninėmis priemonėmis, kurioms ateityje numatomas didelis potencialas augti.</p>-->
+<!--                <a href="https://madeinvilnius.lt/naujienos/transportas/oro-uostas/vilniaus-oro-uoste-irengta-didziausia-vidaus-vaizdo-siena-lietuvoje/" target="_blank">Skaityti daugiau <i class="d-inline fas fa-chevron-right"></i></a>-->
+<!--            </div>-->
         </div>
-        <div class="single-item col-xl-3 col-md-8 mb-5 p-5 mr-lg-5 text-center bg-info">
-            <img src="https://www.etaplius.lt/logo.png?v18">
-            <div class="text-left">
-                <p class="pt-5">Lietuvos oro uostai įgyvendino didelio masto atsinaujinimą, kurio metu įprastus partneriams siūlytus reklamos sprendimus pakeitė efektyviomis skaitmeninėmis priemonėmis, kurioms ateityje numatomas didelis potencialas augti.</p>
-                <a href="https://www.etaplius.lt/lietuvos-oro-uostuose-rekordinis-reklamos-priemoniu-modernizavimas-ir-didziausia-lietuvoje-vidaus-patalpu-vaizdo-siena" target="_blank">Skaityti daugiau <i class="d-inline fas fa-chevron-right"></i></a>
-            </div>
+        <div class="single-item col-xl-4 col-md-8 mb-5 text-center">
+            <a href="https://www.etaplius.lt/lietuvos-oro-uostuose-rekordinis-reklamos-priemoniu-modernizavimas-ir-didziausia-lietuvoje-vidaus-patalpu-vaizdo-siena" target="_blank">
+                <img src="https://www.etaplius.lt/logo.png?v18">
+            </a>
+<!--            <img src="https://www.etaplius.lt/logo.png?v18">-->
+<!--            <div class="text-left">-->
+<!--                <p class="pt-5">Lietuvos oro uostai įgyvendino didelio masto atsinaujinimą, kurio metu įprastus partneriams siūlytus reklamos sprendimus pakeitė efektyviomis skaitmeninėmis priemonėmis, kurioms ateityje numatomas didelis potencialas augti.</p>-->
+<!--                <a href="https://www.etaplius.lt/lietuvos-oro-uostuose-rekordinis-reklamos-priemoniu-modernizavimas-ir-didziausia-lietuvoje-vidaus-patalpu-vaizdo-siena" target="_blank">Skaityti daugiau <i class="d-inline fas fa-chevron-right"></i></a>-->
+<!--            </div>-->
         </div>
-        <div class=" single-item col-xl-3 col-md-8 mb-5 p-5 mr-lg-5 text-center bg-info">
-            <img src="https://g2.dcdn.lt/glt/c/delfi-header-2017/l/delfi.svg">
-            <div class="text-left">
-                <p class="pt-5">Lietuvos oro uostai įgyvendino didelio masto atsinaujinimą, kurio metu įprastus partneriams siūlytus reklamos sprendimus pakeitė efektyviomis skaitmeninėmis priemonėmis, kurioms ateityje numatomas didelis potencialas augti.</p>
-                <a href="https://www.delfi.lt/m360/naujausi-straipsniai/lietuvos-oro-uostai-atsinaujino-idiegta-daugiau-nei-100-nauju-reklamos-priemoniu.d?id=80404903" target="_blank">Skaityti daugiau <i class="d-inline fas fa-chevron-right"></i></a>
-            </div>
+        <div class=" single-item col-xl-4 col-md-8 mb-5 text-center">
+            <a href="https://www.delfi.lt/m360/naujausi-straipsniai/lietuvos-oro-uostai-atsinaujino-idiegta-daugiau-nei-100-nauju-reklamos-priemoniu.d?id=80404903" target="_blank">
+                <img src="https://g2.dcdn.lt/glt/c/delfi-header-2017/l/delfi.svg">
+            </a>
+<!--            <img src="https://g2.dcdn.lt/glt/c/delfi-header-2017/l/delfi.svg">-->
+<!--            <div class="text-left">-->
+<!--                <p class="pt-5">Lietuvos oro uostai įgyvendino didelio masto atsinaujinimą, kurio metu įprastus partneriams siūlytus reklamos sprendimus pakeitė efektyviomis skaitmeninėmis priemonėmis, kurioms ateityje numatomas didelis potencialas augti.</p>-->
+<!--                <a href="https://www.delfi.lt/m360/naujausi-straipsniai/lietuvos-oro-uostai-atsinaujino-idiegta-daugiau-nei-100-nauju-reklamos-priemoniu.d?id=80404903" target="_blank">Skaityti daugiau <i class="d-inline fas fa-chevron-right"></i></a>-->
+<!--            </div>-->
         </div>
     </div>
 
