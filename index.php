@@ -81,7 +81,7 @@
                         <!-- Bottom tooltip-->
                         <i class="far fa-question-circle" data-toggle="popover" data-placement="bottom" data-content="Rekomendacijas sustiprinti skaitmeninės lauko reklamos (angl. Digital Out Of Home, DOOH) pozicijas Lietuvos oro uostams pateikė tarptautinė konsultacinė įmonė „Wildstone Consulting“, tarp kurios klientų yra Londono Sičio, Hitrou, Glazgo, Denverio ir kiti didieji pasaulio oro uostai. Ištyrusi oro uostų ir visos šalies reklamos rinką „Wildstone Consulting“ pateikė skaitmeninės reklamos sprendimų lokacijų, dizaino ir kitų specifikacijų pasiūlymus."></i>
                     </li>
-                    <li>Užtikrintintas matomumas
+                    <li>Užtikrintas matomumas
                         <!-- Bottom tooltip-->
                         <i class="far fa-question-circle" data-toggle="popover" data-placement="bottom" data-content="Keleiviai prieš skrydį ar parvykę oro uostų erdvėse praleidžia nuo 30 iki 90 min. Izoliuota erdvė ir tinkamose lokacijose sumontuotos reklaminės priemonės užtikriną gerą jų matomumą. Įrengtuose vaizdo ekranuose yra patvirtinta 50 sek. vaizdo takelio trukmė, tai garantuoja, kad tuo pačiu periodu transliuojamos reklamos yra gerai matomos."></i>
                     </li>

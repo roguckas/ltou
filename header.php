@@ -7,7 +7,7 @@ $nav = "<nav class=\"navbar fixed-top navbar-expand-lg navbar-light bg-white\">
   <div class=\"collapse navbar-collapse justify-content-lg-end\" id=\"navbarNav\">
     <ul class=\"navbar-nav\">
       <li class=\"nav-item m-lg-auto text-md-left  pl-lg-2\">
-        <a class=\"nav-link\" href=\"how-it-works.php\">Kaip tai veikia ?</a>
+        <a class=\"nav-link\" href=\"how-it-works.php\">Kaip tai veikia?</a>
       </li>
       <li class=\"nav-item m-lg-auto text-md-left  pl-lg-2\">
         <a class=\"nav-link\" href=\"duk.php\">D.U.K</a>
