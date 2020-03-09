@@ -724,4 +724,16 @@ button .border-primary:hover {
   display: none;
 }
 
+.popover-body {
+  font-size: 16px;
+}
+
+.lead {
+  font-size: 1.5rem;
+}
+
+#functions li {
+  font-size: 1.2vw;
+}
+
 /*# sourceMappingURL=style.css.map */

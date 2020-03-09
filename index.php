@@ -135,7 +135,7 @@
                     </div>
                     <div class="col row col-12 align-items-center justify-content-center services-text">
                         <h1 class="col justify-content-center">1</h1>
-                        <h3 class="col-8 text-left text-white"><a href="how-it-works.php#services">Pasirenkamos reklamos pozicijos</a></h3>
+                        <h3 class="col-9 text-left text-white"><a href="how-it-works.php#services">Pasirenkamos reklamos pozicijos</a></h3>
                     </div>
                 </div>
                 <div class="row col-md-12 col-xl-4 case-study">
@@ -144,7 +144,7 @@
                     </div>
                     <div class="col row col-12 align-items-center justify-content-center services-text">
                         <h1 class="col justify-content-center">2</h1>
-                        <h3 class="col-8 text-left text-white"><a href="how-it-works.php#services">Įkeliamas turinys, sukuriama reklaminė kampanija</a></h3>
+                        <h3 class="col-9 text-left text-white"><a href="how-it-works.php#services">Įkeliamas turinys, sukuriama reklaminė kampanija</a></h3>
                     </div>
                 </div>
                 <div class="row col-md-12 col-xl-4 case-study">
@@ -153,14 +153,14 @@
                     </div>
                     <div class="col row col-12 align-items-center justify-content-center services-text">
                         <h1 class="col justify-content-center">3 </h1>
-                        <h3 class="col-8 text-left text-white"><a href="how-it-works.php#services">Reklaminė kampanija administruojama ir valdoma</a></h3>
+                        <h3 class="col-9 text-left text-white"><a href="how-it-works.php#services">Reklaminė kampanija administruojama ir valdoma</a></h3>
                     </div>
                 </div>
             </div>
 
             <div class="col-12 buttons  justify-content-center">
-                <button class=" col-sm-6 col-md-2 mr-5"><a href="how-it-works.php">Žiūrėti video</a></button>
-                <a href="how-it-works.php#services">Skaityti daugiau <i class="fas fa-chevron-right"></i></a>
+<!--                <button class=" col-sm-6 col-md-2 mr-5"><a href="how-it-works.php">Žiūrėti video</a></button>-->
+                <a href="how-it-works.php">Skaityti daugiau <i class="fas fa-chevron-right"></i></a>
             </div>
         </div>
     </div>
