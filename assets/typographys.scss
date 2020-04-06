@@ -8,14 +8,20 @@
   font-family: Roboto, sans-serif;
 
 }
-
 .primary-color {
   color: $main_color;
 }
-
 .btn-primary {
   background-color: $main_color;
   border-color: $main_color;
+}
+.btn-primary:hover {
+  background-color: $secondary_color;
+  border-color: $secondary_color;
+
+  a {
+    text-decoration: none;
+  }
 }
 h1 {
   font-size: 4vw;

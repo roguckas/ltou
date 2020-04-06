@@ -67,6 +67,14 @@
   border-color: #20A2EC;
 }
 
+.btn-primary:hover {
+  background-color: #086295;
+  border-color: #086295;
+}
+.btn-primary:hover a {
+  text-decoration: none;
+}
+
 h1 {
   font-size: 4vw;
   font-style: normal;
@@ -604,7 +612,6 @@ button .border-primary:hover {
   }
 }
 .carousel-item {
-  margin-top: 90px;
   margin-bottom: 90px;
 }
 
