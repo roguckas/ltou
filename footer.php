@@ -13,10 +13,10 @@ $footer = "<footer class=\"footer\">
 <!--                    <img src=\"images/young-man-1281282_1920.png\">-->
 <!--                </div>-->
                 <div class=\"col-12 justify-content-md-center py-5\">
-                    <h3 class=\"col-12 mb-2 text-primary\">Eglė Lydekaitytė</h3>
-                    <p class=\"col-12 text-dark mb-5\">Pardavimų vadovė Vilniuje</p>
-                    <a class=\"col-12 text-dark my-5\" href=\"tel:+37068286446\">+370 682 86 446</a><br>
-                    <a class=\"col-12 text-dark my-5\" href=\"mailto:e.lydekaityte@ltou.lt\">e.lydekaityte@ltou.lt<br></a>
+                    <h3 class=\"col-12 mb-2 text-primary\">Eglė Kiekšienė</h3>
+                    <p class=\"col-12 text-dark mb-5\">Pardavimų skyriaus vadovė</p>
+                    <a class=\"col-12 text-dark my-5\" href=\"tel:+37062022809\">+370 620 22 809</a><br>
+                    <a class=\"col-12 text-dark my-5\" href=\"mailto:e.kieksiene@ltou.lt\">e.kieksiene@ltou.lt<br></a>
                     <a class=\"col-12 my-2 website text-left\" href=\"https://www.vno.lt/\" target=\"_blank\">www.vno.lt</a>
                 </div>
             </div>
