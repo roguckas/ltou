@@ -1,5 +1,5 @@
 <?php
-$nav = "<nav class=\"navbar shadow-sm fixed-top my-auto navbar-expand-lg navbar-light bg-white\">
+$nav = "<nav class=\"navbar pb-3 shadow-sm fixed-top my-auto navbar-expand-lg navbar-light bg-white\">
   <a class=\"navbar-brand\" href=\"index.php\"><img  src=\"images/logo_en.png\"></a>
   <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarNav\" aria-controls=\"navbarNav\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">
     <span class=\"navbar-toggler-icon\"></span>

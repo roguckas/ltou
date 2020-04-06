@@ -110,7 +110,7 @@ p {
   font-style: normal;
   font-weight: 400;
   font-size: 3.4vw;
-  line-height: 25px;
+  line-height: 30px;
 }
 
 li {
@@ -144,8 +144,19 @@ button:hover, .btn-secondary:hover {
   color: #20A2EC;
 }
 
-.btn-secondary:hover {
-  background-color: transparent;
+.container .btn-secondary a {
+  color: white;
+}
+
+.container .btn-secondary:before {
+  transition: 0.2s;
+}
+
+.container .btn-secondary:hover {
+  background-color: #fff;
+}
+.container .btn-secondary:hover a {
+  color: #20A2EC;
 }
 
 .dropdown-toggle {
@@ -581,6 +592,10 @@ button .border-primary:hover {
 .fa-play-circle {
   width: 100%;
   height: auto;
+}
+
+.navbar {
+  padding-top: 30px;
 }
 
 #navbarResponsive a {

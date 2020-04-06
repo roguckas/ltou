@@ -57,7 +57,7 @@ p {
   font-style: normal;
   font-weight: 400;
   font-size: 3.4vw;
-  line-height: 25px;
+  line-height: 30px;
 
 }
 
@@ -93,8 +93,17 @@ button, .btn-secondary {
 
   }
 }
-.btn-secondary:hover {
-  background-color: transparent;
+.container .btn-secondary a{
+  color: white;
+}
+.container .btn-secondary:before{
+  transition: 0.2s;
+}
+.container .btn-secondary:hover{
+  background-color: $white;
+  a {
+    color: $main_color;
+  }
 }
 .dropdown-toggle {
   border: none;
