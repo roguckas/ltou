@@ -390,9 +390,14 @@ section .bg-primary li:before {
 
 #functions p {
   color: #20A2EC;
+  font-weight: 400;
 }
 #functions li {
   font-weight: 300;
+  font-size: 1.2vw;
+}
+#functions h2 {
+  margin-bottom: 5%;
 }
 
 #logos .container-fluid {
@@ -414,9 +419,7 @@ section .bg-primary li:before {
   background-position: center;
 }
 .footer h3 {
-  padding: 30px 0;
   padding-bottom: 0;
-  margin: 30px 0;
   color: #20A2EC;
   text-transform: uppercase;
 }
@@ -755,8 +758,14 @@ button .border-primary:hover {
   font-size: 1.5rem;
 }
 
-#functions li {
-  font-size: 1.2vw;
+.contact-person {
+  border-radius: 20px;
+}
+.contact-person a {
+  font-weight: normal;
+}
+.contact-person a:hover {
+  color: #086295;
 }
 
 /*# sourceMappingURL=style.css.map */

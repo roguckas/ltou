@@ -171,9 +171,14 @@ section {
 
   p {
     color: $main_color;
+    font-weight: 400;
   }
   li {
     font-weight: 300;
+    font-size: 1.2vw;
+  }
+  h2 {
+    margin-bottom: 5%;
   }
 }
 
@@ -202,9 +207,7 @@ section {
   }
 
   h3 {
-    padding: 30px 0;
     padding-bottom: 0;
-    margin: 30px 0;
     color: $main_color;
     text-transform: uppercase;
   }
@@ -589,8 +592,15 @@ button .border-primary:hover {
 .lead {
   font-size: 1.5rem;
 }
+.contact-person {
+  border-radius: 20px;
 
-#functions li {
-  font-size: 1.2vw;
+  a {
+    font-weight: normal;
+
+    &:hover {
+      color: $secondary_color;
+    }
+  }
 }
 

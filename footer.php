@@ -8,7 +8,7 @@ $footer = "<footer class=\"footer\">
         <section class=\"container\" id=\"container-fluid services\">
     <div class=\"row justify-content-center\">
         <div class=\"col col-md-6 col-xl-4 mb-5 pb-md-5  row\">
-            <div class=\"col-12 row justify-content-center bg-white text-center mt-5 mt-lg-0 mr-lg-5 shadow rounded\">
+            <div class=\"col-12 row justify-content-center bg-white text-center mt-5 mt-lg-0 mr-lg-5 shadow contact-person\">
 <!--                <div class=\"mt-lg-n5\">-->
 <!--                    <img src=\"images/young-man-1281282_1920.png\">-->
 <!--                </div>-->
@@ -22,7 +22,7 @@ $footer = "<footer class=\"footer\">
             </div>
         </div>
         <div class=\"col col-md-6 col-xl-4 mb-5 pb-md-5 row\">
-            <div class=\"col-12 row justify-content-center bg-white text-center mt-5 mt-lg-0 mr-lg-5 shadow rounded\">
+            <div class=\"col-12 row justify-content-center bg-white text-center mt-5 mt-lg-0 mr-lg-5 shadow contact-person\">
 <!--                <div class=\"mt-lg-n5\">-->
 <!--                    <img src=\"images/young-man-1281282_1920.png\">-->
 <!--                </div>-->
@@ -36,7 +36,7 @@ $footer = "<footer class=\"footer\">
             </div>
         </div>
         <div class=\"col col-md-6 col-xl-4 mb-5 pb-md-5 row\">
-            <div class=\"col-12 row justify-content-center bg-white text-center mt-5 mt-lg-0 mr-lg-5 shadow\">
+            <div class=\"col-12 row justify-content-center bg-white text-center mt-5 mt-lg-0 mr-lg-5 shadow contact-person\">
 <!--                <div class=\"mt-lg-n5 rounded-circle\">-->
 <!--                    <img src=\"images/young-man-1281282_1920.png\">-->
 <!--                </div>-->

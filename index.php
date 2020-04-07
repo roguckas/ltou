@@ -171,7 +171,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <h2>Funkcijos</h2>
-                <p class="lead">Susiplanuokite reklaminę kampaniją visuose trijuose Lietuvos oro uostuose per vieną įrankį:</p>
+                <p class="lead">Susiplanuokite reklaminę kampaniją visuose trijuose<br>Lietuvos oro uostuose per vieną įrankį!</p>
                 <br>
                 <img src="images/Group%20257.png">
                 <ul>
