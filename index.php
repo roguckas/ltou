@@ -111,7 +111,7 @@
                             <button class="dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 Atsisiųsti pristatymą
                             </button>
-                            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                            <div class="dropdown-menu col-12" aria-labelledby="dropdownMenuButton">
                                 <a class="dropdown-item" href="VNO%20reklama.pdf" download><i class="fas fa-file-download"></i>VNO</a>
                                 <a class="dropdown-item" href="Reklamos%20galimybės%20Kauno%20oro%20uoste%20(su%20kaino%20mis).pdf" download><i class="fas fa-file-download"></i>KUN</a>
                                 <a class="dropdown-item" href="Planagos%20oro%20uosto%20reklamos%20priemonių%20prista%20tymas.pdf" download><i class="fas fa-file-download"></i>PLQ</a>

@@ -116,7 +116,8 @@ p {
 li {
   font-style: normal;
   text-decoration: none;
-  font-weight: 500;
+  color: #828282;
+  font-weight: 300;
   font-size: 3.3vw;
   line-height: 40px;
   margin-top: 10px;
