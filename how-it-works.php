@@ -116,7 +116,7 @@
         </div>
     </div>
 </section>
-<div class="container-fluid text-center articles pt-5 mt-5 mb-5">
+<div id="about-us" class="container-fluid text-center articles pt-5 mt-5 mb-5">
     <div class="row single-item justify-content-center multiple-items pb-5">
         <h1 class="col-12 pb-5 mb-5">Apie mus rašo</h1>
         <div class="single-item col-xl-3 col-md-8 mb-5 text-center p-5 bg-info mr-lg-5">

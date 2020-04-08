@@ -386,6 +386,11 @@ section .bg-primary li:before {
   margin-bottom: 25px;
 }
 
+#about-us a:hover {
+  color: #086295;
+  text-decoration: none;
+}
+
 #functions p {
   color: #20A2EC;
   font-weight: 400;
