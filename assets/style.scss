@@ -89,7 +89,16 @@ section {
       }
     }
   }
+  .dropdown-toggle {
+    border-radius: 25px;
+    border: 2px solid $main_color;
 
+    &:focus {
+      border: $main_color;
+      color: $white;
+      background-color: $main_color;
+    }
+  }
   .dropdown-item {
     color: $main_color;
 
@@ -166,7 +175,7 @@ section {
 }
 #about-us{
  a:hover {
-   color: $secondary_color;
+   color: $main_color;
    text-decoration: none;
  }
 }
@@ -202,6 +211,10 @@ section {
     color: $white;
     padding: 10px;
     text-transform: uppercase;
+
+    &:hover {
+
+    }
   }
 
   .footer-info {
@@ -225,7 +238,6 @@ section {
 
 .footer-bottom {
   background-color: $secondary_color;
-  height: 100px;
   margin-top: 100px;
 }
 
@@ -269,7 +281,6 @@ section {
 }
 
 .duk-list {
-
   li:before {
     font-family: "Font Awesome 5 Free";
     display: inline-block;

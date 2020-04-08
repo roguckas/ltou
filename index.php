@@ -47,7 +47,7 @@
 <header class="bg-primary container-fluid header-mobile py-5 my-5 d-none text-white">
     <div class="container text-center">
         <div class="row">
-            <h1 class="col-lg-6 offset-xl-8">Reklamos užsakymas Lietuvos oro uostuose</h1>
+            <h1 class="col-lg-6 offset-xl-8 pt-5">Reklamos užsakymas<br>Lietuvos oro uostuose</h1>
             <p class="col-lg-6 offset-xl-8">Jūsų patogumui sukūrėme analogų neturinčią reklamos užsakymo platformą. Šio įrankio pagalba galėsite greitai ir efektyviai suplanuoti reklamos kampaniją Lietuvos oro uostų grupėje, kurioje – 84 aukštos kokybės vaizdo ekranai, 46 šviesdėžės, 74 nestandartinių pozicijų ir didžiausia vaizdo siena vidaus patalpose.</p>
             <a class="col-12 col-md-6 col-xl-4 " href="https://reklama.ltou.lt/app/building/1#login">
                 <button class="col-12 offset-xl-8">Išbandyti</button>

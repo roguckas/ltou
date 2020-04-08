@@ -1,9 +1,6 @@
 @import "colors";
 
 
-.navbar-toggler {
-  margin-right: 10%;
-}
 .bg-primary.header {
   margin-top: 0;
 
@@ -60,6 +57,11 @@ background-color: $white !important;
 
   button {
     margin-top: 50px;
+  }
+
+
+  .navbar-toggler {
+    margin-right: 10%;
   }
 
 }

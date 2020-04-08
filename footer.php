@@ -57,7 +57,7 @@ $footer = "<footer class=\"footer\">
         </button>
         -->
     </div>
-    <div class=\"col-12 footer-bottom text-center mb-2\">
+    <div class=\"col-12 footer-bottom text-center pb-2\">
         <br>
         <p class='text-white'>© 2020 Valstybės įmonė Lietuvos oro uostai.</p>
         <a href='terms.php' class='text-white'>Sąlygos ir nuostatos</a>       
