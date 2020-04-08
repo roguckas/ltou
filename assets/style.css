@@ -341,7 +341,6 @@ section .bg-primary li:before {
   width: max-content;
   padding: 40px;
   margin: auto;
-  margin-bottom: 50px;
 }
 .services-icon img {
   width: auto;
@@ -354,7 +353,6 @@ section .bg-primary li:before {
 
 .case-study {
   top: -100px;
-  margin-bottom: 40px;
 }
 .case-study h1 {
   font-size: 80px;
