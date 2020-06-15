@@ -61,7 +61,7 @@
                     <li>
                         <h3 class="d-inline">Ekranai, šviesdėžės ir kitos priemonės</h3>
                         <br>
-                        <p class="text-justify">Visuose oro uostuose veikia 84 reklamos ekranai, taip pat siūlome pozicijas moderniose šviesdėžėse. Esame atviri ir nestandartiniams sprendimams, tokiems kaip bagažo vežimėlių apipavidalinimas ar reklama, rodoma prisijungiant prie oro uosto Wi-Fi tinklo</p>
+                        <p class="text-justify">Visuose oro uostuose veikia 84 reklamos priemonių, taip pat siūlome pozicijas moderniose šviesdėžėse. Esame atviri ir nestandartiniams sprendimams, tokiems kaip bagažo vežimėlių apipavidalinimas ar reklama, rodoma prisijungiant prie oro uosto Wi-Fi tinklo</p>
                     </li>
                     <li>
                         <h3 class="d-inline">Terminalo ir lauko lokacijos</h3>

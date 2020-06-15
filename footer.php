@@ -13,10 +13,10 @@ $footer = "<footer class=\"footer\">
 <!--                    <img src=\"images/young-man-1281282_1920.png\">-->
 <!--                </div>-->
                 <div class=\"col-12 justify-content-md-center py-5\">
-                    <h3 class=\"col-12 mb-2 text-primary\">Eglė Kiekšienė</h3>
-                    <p class=\"col-12 text-dark mb-5\">Pardavimų skyriaus vadovė</p>
-                    <a class=\"col-12 text-dark my-5\" href=\"tel:+37062022809\">+370 620 22 809</a><br>
-                    <a class=\"col-12 text-dark my-5\" href=\"mailto:e.kieksiene@ltou.lt\">e.kieksiene@ltou.lt<br></a>
+                    <h3 class=\"col-12 mb-2 text-primary\">Eglė Lydekaitytė</h3>
+                    <p class=\"col-12 text-dark mb-5\">Pardavimų vadovė</p>
+                    <a class=\"col-12 text-dark my-5\" href=\"tel:+37068286446\">+370 682 86446</a><br>
+                    <a class=\"col-12 text-dark my-5\" href=\"mailto:e.lydekaityte@vno.lt\">e.lydekaityte@vno.lt<br></a>
                     <a class=\"col-12 my-2 website text-left\" href=\"https://www.vno.lt/\" target=\"_blank\">www.vno.lt</a>
                 </div>
             </div>
@@ -27,11 +27,11 @@ $footer = "<footer class=\"footer\">
 <!--                    <img src=\"images/young-man-1281282_1920.png\">-->
 <!--                </div>-->
                 <div class=\"col-12 justify-content-md-center py-5\">
-                    <h3 class=\"col-12 mb-2 text-primary\">Živilė Pikšrytė</h3>
-                    <p class=\"col-12 text-dark mb-5\">Pardavimų vadovė Kaune</p>
-                    <a class=\"col-12 text-dark my-5\" href=\"tel:+37068714045\">+370 687 14 045</a><br>
-                    <a class=\"col-12 text-dark my-5\" href=\"mailto:z.piksryte@ltou.lt\">z.piksryte@ltou.lt<br></a>
-                    <a class=\"col-12 my-2 website text-left\" href=\"https://www.kaunas-airport.lt/\" target=\"_blank\">www.kun.lt</a>
+                    <h3 class=\"col-12 mb-2 text-primary\">Eglė Kiekšienė</h3>
+                    <p class=\"col-12 text-dark mb-5\">Pardavimų skyriaus vadovė</p>
+                    <a class=\"col-12 text-dark my-5\" href=\"tel:+37062022809\">+370 620 22809</a><br>
+                    <a class=\"col-12 text-dark my-5\" href=\"mailto:e.kieksiene@ltou.lt\">e.kieksiene@ltou.lt<br></a>
+                    <a class=\"col-12 my-2 website text-left\" href=\"https://www.vno.lt/\" target=\"_blank\">www.vno.lt</a>
                 </div>
             </div>
         </div>
@@ -43,7 +43,7 @@ $footer = "<footer class=\"footer\">
                 <div class=\"col-12 justify-content-md-center py-5\">
                     <h3 class=\"col-12 mb-2 text-primary\">Marius Naraveckas</h3>
                     <p class=\"col-12 text-dark mb-5\">Pardavimų vadovas Palangoje</p>
-                    <a class=\"col-12 text-dark my-5\" href=\"tel:+37061522086\">+370 615 22 086</a><br>
+                    <a class=\"col-12 text-dark my-5\" href=\"tel:+37061522086\">+370 615 22086</a><br>
                     <a class=\"col-12 text-dark my-5\" href=\"mailto:m.naraveckas@ltou.lt\">m.naraveckas@ltou.lt<br></a>
                     <a class=\"col-12 my-2 website text-left\" href=\"https://www.palanga-airport.lt/lt/\" target=\"_blank\">www.palanga-airport.lt</a>
                 </div>
