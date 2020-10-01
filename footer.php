@@ -27,10 +27,10 @@ $footer = "<footer class=\"footer\">
 <!--                    <img src=\"images/young-man-1281282_1920.png\">-->
 <!--                </div>-->
                 <div class=\"col-12 justify-content-md-center py-5\">
-                    <h3 class=\"col-12 mb-2 text-primary\">Eglė Kiekšienė</h3>
-                    <p class=\"col-12 text-dark mb-5\">Pardavimų skyriaus vadovė</p>
-                    <a class=\"col-12 text-dark my-5\" href=\"tel:+37062022809\">+370 620 22809</a><br>
-                    <a class=\"col-12 text-dark my-5\" href=\"mailto:e.kieksiene@ltou.lt\">e.kieksiene@ltou.lt<br></a>
+                    <h3 class=\"col-12 mb-2 text-primary\">MONIKA SIMONAITĖ</h3>
+                    <p class=\"col-12 text-dark mb-5\">Pardavimų vadovė Kaune</p>
+                    <a class=\"col-12 text-dark my-5\" href=\"tel:+37061436286\">+370 614 36286</a><br>
+                    <a class=\"col-12 text-dark my-5\" href=\"mailto:m.simonaite@ltou.lt\">m.simonaite@ltou.lt<br></a>
                     <a class=\"col-12 my-2 website text-left\" href=\"https://www.kaunas-airport.lt/\" target=\"_blank\">www.kun.lt</a>
                 </div>
             </div>

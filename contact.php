@@ -34,7 +34,7 @@ include 'header.php';
 <!--                    <img src="images/young-man-1281282_1920.png">-->
 <!--                </div>-->
                 <div class="col-12 justify-content-md-center py-5">
-                    <h3 class="col-12 mb-2 text-primary">MONIKA SIMONAITĖ </h3>
+                    <h3 class="col-12 mb-2 text-primary">MONIKA SIMONAITĖ</h3>
                     <p class="col-12 text-dark mb-5">Pardavimų vadovė Kaune</p>
                     <a class="col-12 text-dark my-5" href="tel:+370 614 36286">+370 614 36286</a><br>
                     <a class="col-12 text-dark my-5" href="mailto:m.simonaite@ltou.lt">m.simonaite@ltou.lt<br></a>
