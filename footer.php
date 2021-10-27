@@ -13,10 +13,10 @@ $footer = "<footer class=\"footer\">
 <!--                    <img src=\"images/young-man-1281282_1920.png\">-->
 <!--                </div>-->
                 <div class=\"col-12 justify-content-md-center py-5\">
-                    <h3 class=\"col-12 mb-2 text-primary\">Beatričė Paškevičiūtė</h3>
-                    <p class=\"col-12 text-dark mb-5\">Pardavimo vadovė Vilniuje</p>
-                    <a class=\"col-12 text-dark my-5\" href=\"tel:+37062874885\">+370 628 74885</a><br>
-                    <a class=\"col-12 text-dark my-5\" href=\"mailto:b.paskeviciute@ltou.lt\">b.paskeviciute@ltou.lt<br></a>
+                    <h3 class=\"col-12 mb-2 text-primary\">GINTARĖ NORVILAITĖ-TAUTEVIČĖ</h3>
+                    <p class=\"col-12 text-dark mb-5\">Pardavimų skyriaus vadovė Vilniuje</p>
+                    <a class=\"col-12 text-dark my-5\" href=\"tel:+370 61680939\">+370 616 80939</a><br>
+                    <a class=\"col-12 text-dark my-5\" href=\"mailto:g.norvilaite-tautevice@ltou.lt\">g.norvilaite-tautevice@ltou.lt<br></a>
                     <a class=\"col-12 my-2 website text-left\" href=\"https://www.vno.lt/\" target=\"_blank\">www.vno.lt</a>
                 </div>
             </div>
@@ -41,10 +41,10 @@ $footer = "<footer class=\"footer\">
 <!--                    <img src=\"images/young-man-1281282_1920.png\">-->
 <!--                </div>-->
                 <div class=\"col-12 justify-content-md-center py-5\">
-                    <h3 class=\"col-12 mb-2 text-primary\">Marius Naraveckas</h3>
-                    <p class=\"col-12 text-dark mb-5\">Pardavimo vadovas Palangoje</p>
-                    <a class=\"col-12 text-dark my-5\" href=\"tel:+37061522086\">+370 615 22086</a><br>
-                    <a class=\"col-12 text-dark my-5\" href=\"mailto:m.naraveckas@ltou.lt\">m.naraveckas@ltou.lt<br></a>
+                    <h3 class=\"col-12 mb-2 text-primary\">GINTARĖ NORVILAITĖ-TAUTEVIČĖ</h3>
+                    <p class=\"col-12 text-dark mb-5\">Pardavimų skyriaus vadovė Palangoje</p>
+                    <a class=\"col-12 text-dark my-5\" href=\"tel:+37061680939\">+370 616 80939</a><br>
+                    <a class=\"col-12 text-dark my-5\" href=\"mailto:g.norvilaite-tautevice@ltou.lt\">g.norvilaite-tautevice@ltou.lt<br></a>
                     <a class=\"col-12 my-2 website text-left\" href=\"https://www.palanga-airport.lt/lt/\" target=\"_blank\">www.palanga-airport.lt</a>
                 </div>
             </div>
